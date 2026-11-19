@@ -6,7 +6,7 @@
     "boxes": [
       {
         "box_index": 1,
-        "grob_name": "GRID.gTree.5082",
+        "grob_name": "GRID.gTree.6215",
         "grob_class": "forcedgrob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -83,7 +83,7 @@
       },
       {
         "box_index": 2,
-        "grob_name": "GRID.gTree.5083",
+        "grob_name": "GRID.gTree.6216",
         "grob_class": "forcedgrob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -160,7 +160,7 @@
       },
       {
         "box_index": 3,
-        "grob_name": "GRID.gTree.5084",
+        "grob_name": "GRID.gTree.6217",
         "grob_class": "forcedgrob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -250,7 +250,7 @@
         ]
       }
     ],
-    "extraction_ms": 91
+    "extraction_ms": 78
   },
   "ggtext_chrome": {
     "engine": "r",
@@ -262,7 +262,7 @@
         "kind": "rich",
         "role": null,
         "cell_path": "panel",
-        "grob": "GRID.gTree.5121",
+        "grob": "GRID.gTree.6254",
         "angle_deg": 0,
         "rect": {
           "width_pt": 113.7,
@@ -342,7 +342,7 @@
         "kind": "rich",
         "role": null,
         "cell_path": "panel",
-        "grob": "GRID.gTree.5122",
+        "grob": "GRID.gTree.6255",
         "angle_deg": 0,
         "rect": {
           "width_pt": 105.356,
@@ -422,7 +422,7 @@
         "kind": "rich",
         "role": null,
         "cell_path": "panel",
-        "grob": "GRID.gTree.5123",
+        "grob": "GRID.gTree.6256",
         "angle_deg": 0,
         "rect": {
           "width_pt": 163.669,
@@ -517,7 +517,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l/axis",
-        "grob": "GRID.text.5145",
+        "grob": "GRID.text.6278",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -542,7 +542,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l/axis",
-        "grob": "GRID.text.5145",
+        "grob": "GRID.text.6278",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -567,7 +567,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l/axis",
-        "grob": "GRID.text.5145",
+        "grob": "GRID.text.6278",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -592,7 +592,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l/axis",
-        "grob": "GRID.text.5145",
+        "grob": "GRID.text.6278",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -617,7 +617,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l/axis",
-        "grob": "GRID.text.5145",
+        "grob": "GRID.text.6278",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -642,7 +642,7 @@
         "kind": "plain",
         "role": "axis.text.x.bottom",
         "cell_path": "axis-b/axis",
-        "grob": "GRID.text.5141",
+        "grob": "GRID.text.6274",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -667,7 +667,7 @@
         "kind": "plain",
         "role": "axis.text.x.bottom",
         "cell_path": "axis-b/axis",
-        "grob": "GRID.text.5141",
+        "grob": "GRID.text.6274",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -692,7 +692,7 @@
         "kind": "plain",
         "role": "axis.text.x.bottom",
         "cell_path": "axis-b/axis",
-        "grob": "GRID.text.5141",
+        "grob": "GRID.text.6274",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -717,7 +717,7 @@
         "kind": "plain",
         "role": "axis.text.x.bottom",
         "cell_path": "axis-b/axis",
-        "grob": "GRID.text.5141",
+        "grob": "GRID.text.6274",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -742,7 +742,7 @@
         "kind": "plain",
         "role": "axis.text.x.bottom",
         "cell_path": "axis-b/axis",
-        "grob": "GRID.text.5141",
+        "grob": "GRID.text.6274",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -767,7 +767,7 @@
         "kind": "plain",
         "role": "axis.title.x.bottom",
         "cell_path": "xlab-b",
-        "grob": "GRID.text.5148",
+        "grob": "GRID.text.6281",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -792,7 +792,7 @@
         "kind": "plain",
         "role": "axis.title.y.left",
         "cell_path": "ylab-l",
-        "grob": "GRID.text.5151",
+        "grob": "GRID.text.6284",
         "angle_deg": 90,
         "rect": {},
         "text_runs": [
@@ -815,6 +815,6 @@
       }
     ],
     "gtable_cells": ["background", "spacer", "axis-l", "axis-t", "panel", "axis-b", "axis-r", "xlab-t", "xlab-b", "ylab-l", "ylab-r", "guide-box-right", "guide-box-left", "guide-box-bottom", "guide-box-top", "guide-box-inside", "subtitle", "title", "caption"],
-    "extraction_ms": 92
+    "extraction_ms": 81
   }
 }

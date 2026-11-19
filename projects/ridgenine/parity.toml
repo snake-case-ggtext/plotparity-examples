@@ -1,0 +1,4 @@
+# ridgenine (Brian Connelly's ridgeline plots for plotnine) tested against the ggridges cases. Run from this directory: `plotparity run`.
+cases = "../../cases/ggridges"
+from = "git+https://github.com/briandconnelly/ridgenine@8ad0d9beda178adda215b62fbced023638f80fce"
+api = ["geom_density_ridges", "geom_density_ridges_gradient", "geom_ridgeline", "stat_density_ridges", "stat_binline"]

@@ -4,7 +4,7 @@
     "panel_bbox_norm_tl": [0.0668, 0.0114, 0.9652, 0.3117],
     "box_count": 0,
     "boxes": [],
-    "extraction_ms": 207
+    "extraction_ms": 122
   },
   "ggtext_chrome": {
     "engine": "r",
@@ -18,7 +18,7 @@
         "kind": "rich",
         "role": "strip.text.y.right",
         "cell_path": "strip-r-1/strip",
-        "grob": "GRID.gTree.820",
+        "grob": "GRID.gTree.1964",
         "angle_deg": -90,
         "rect": {},
         "text_runs": [
@@ -43,7 +43,7 @@
         "kind": "rich",
         "role": "strip.text.y.right",
         "cell_path": "strip-r-2/strip",
-        "grob": "GRID.gTree.823",
+        "grob": "GRID.gTree.1967",
         "angle_deg": -90,
         "rect": {},
         "text_runs": [
@@ -68,7 +68,7 @@
         "kind": "rich",
         "role": "strip.text.y.right",
         "cell_path": "strip-r-3/strip",
-        "grob": "GRID.gTree.826",
+        "grob": "GRID.gTree.1970",
         "angle_deg": -90,
         "rect": {},
         "text_runs": [
@@ -93,7 +93,7 @@
         "kind": "plain",
         "role": "axis.text.x.bottom",
         "cell_path": "axis-b-1/axis",
-        "grob": "GRID.text.788",
+        "grob": "GRID.text.1932",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -118,7 +118,7 @@
         "kind": "plain",
         "role": "axis.text.x.bottom",
         "cell_path": "axis-b-1/axis",
-        "grob": "GRID.text.788",
+        "grob": "GRID.text.1932",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -143,7 +143,7 @@
         "kind": "plain",
         "role": "axis.text.x.bottom",
         "cell_path": "axis-b-1/axis",
-        "grob": "GRID.text.788",
+        "grob": "GRID.text.1932",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -168,7 +168,7 @@
         "kind": "plain",
         "role": "axis.text.x.bottom",
         "cell_path": "axis-b-1/axis",
-        "grob": "GRID.text.788",
+        "grob": "GRID.text.1932",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -193,7 +193,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-1/axis",
-        "grob": "GRID.text.792",
+        "grob": "GRID.text.1936",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -218,7 +218,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-1/axis",
-        "grob": "GRID.text.792",
+        "grob": "GRID.text.1936",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -243,7 +243,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-1/axis",
-        "grob": "GRID.text.792",
+        "grob": "GRID.text.1936",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -268,7 +268,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-1/axis",
-        "grob": "GRID.text.792",
+        "grob": "GRID.text.1936",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -293,7 +293,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-2/axis",
-        "grob": "GRID.text.796",
+        "grob": "GRID.text.1940",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -318,7 +318,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-2/axis",
-        "grob": "GRID.text.796",
+        "grob": "GRID.text.1940",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -343,7 +343,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-2/axis",
-        "grob": "GRID.text.796",
+        "grob": "GRID.text.1940",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -368,7 +368,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-2/axis",
-        "grob": "GRID.text.796",
+        "grob": "GRID.text.1940",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -393,7 +393,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-3/axis",
-        "grob": "GRID.text.800",
+        "grob": "GRID.text.1944",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -418,7 +418,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-3/axis",
-        "grob": "GRID.text.800",
+        "grob": "GRID.text.1944",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -443,7 +443,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-3/axis",
-        "grob": "GRID.text.800",
+        "grob": "GRID.text.1944",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -468,7 +468,7 @@
         "kind": "plain",
         "role": "axis.text.y.left",
         "cell_path": "axis-l-3/axis",
-        "grob": "GRID.text.800",
+        "grob": "GRID.text.1944",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -493,7 +493,7 @@
         "kind": "plain",
         "role": "axis.title.x.bottom",
         "cell_path": "xlab-b",
-        "grob": "GRID.text.837",
+        "grob": "GRID.text.1981",
         "angle_deg": 0,
         "rect": {},
         "text_runs": [
@@ -518,7 +518,7 @@
         "kind": "plain",
         "role": "axis.title.y.left",
         "cell_path": "ylab-l",
-        "grob": "GRID.text.840",
+        "grob": "GRID.text.1984",
         "angle_deg": 90,
         "rect": {},
         "text_runs": [
@@ -541,6 +541,6 @@
       }
     ],
     "gtable_cells": ["background", "panel-1-1", "panel-2-1", "panel-3-1", "axis-t-1", "axis-b-1", "axis-l-1", "axis-l-2", "axis-l-3", "axis-r-1", "axis-r-2", "axis-r-3", "strip-r-1", "strip-r-2", "strip-r-3", "xlab-t", "xlab-b", "ylab-l", "ylab-r", "guide-box-right", "guide-box-left", "guide-box-bottom", "guide-box-top", "guide-box-inside", "subtitle", "title", "caption"],
-    "extraction_ms": 132
+    "extraction_ms": 128
   }
 }
