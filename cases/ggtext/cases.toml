@@ -1,0 +1,10 @@
+# Root of a cases folder: everything the stored R references depend on.
+adapter = "ggtext"
+
+[reference]
+packages = ["ggplot2", "ggtext"]   # loaded before each case's R block
+
+[render]
+width_px = 640
+height_px = 480
+dpi = 72

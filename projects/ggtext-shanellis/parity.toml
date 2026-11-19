@@ -1,22 +1,9 @@
-# plotparity project: the shared ggtext case library (R ggtext = spec) vs Shannon Ellis's `ggtext` Python package
-# (https://github.com/snake-case-ggtext/ggtext_ShanEllis), pinned to a commit.
-[project]
-default_select = "dev"
-
-[cases]
-library = "../../cases/ggtext"
+# Shannon Ellis's `ggtext` package tested against the ggtext cases. Run from this directory: `plotparity run`.
+cases = "../../cases/ggtext"
+from = "git+https://github.com/snake-case-ggtext/ggtext_ShanEllis@a1b9aa9dbb5d6100e61969e93d6662a3eb6bd0d5"
+api = ["geom_richtext", "geom_textbox", "element_markdown", "element_textbox", "element_textbox_simple"]
 
 [splits]
 dev = ["geom_richtext/*", "geom_textbox/*"]
 holdout = ["markup/*"]
 coverage = ["elements/*"]
-
-[candidate]
-engine = "python"
-package = "ggtext"
-source = "git+https://github.com/snake-case-ggtext/ggtext_ShanEllis@a1b9aa9dbb5d6100e61969e93d6662a3eb6bd0d5"
-requirements = ["ggir @ git+https://github.com/snake-case-ggtext/ggIR@v0.2.0"]   # the port's dependencies
-api = ["geom_richtext", "geom_textbox", "element_markdown", "element_textbox", "element_textbox_simple"]
-
-[render]
-timeout_s = 60
