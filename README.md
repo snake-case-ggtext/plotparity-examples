@@ -19,9 +19,9 @@ The first passes. The second shows a package with real gaps.
 
 | Path | What it is |
 | --- | --- |
-| [`cases/ggtext/`](cases/ggtext/) | 16 cases for R's ggtext, one Markdown file each: shared data, the R code, and a Python block per package. Stored R renders are in `_references/`. |
+| [`cases/ggtext/`](cases/ggtext/) | 28 cases for R's ggtext, one Markdown file each: shared data, the R code, and a Python block per package. Stored R renders are in `_references/`. |
 | [`projects/ggtext/`](projects/ggtext/parity.toml) | [plotnine-ggtext](https://github.com/snake-case-ggtext/plotnine-ggtext) with `dev` / `holdout` / `coverage` splits. `plotparity run` runs `dev`; `--split coverage` shows what it lacks (theme elements, `<img>`, R colour names, `~sub~`/`^sup^`). Also has the mutation suite for `plotparity selftest`. |
-| [`projects/ggtext-shanellis/`](projects/ggtext-shanellis/parity.toml) | [Shannon Ellis's ggtext](https://github.com/snake-case-ggtext/ggtext_ShanEllis): 2 of 16 cases match. |
+| [`projects/ggtext-shanellis/`](projects/ggtext-shanellis/parity.toml) | [Shannon Ellis's ggtext](https://github.com/snake-case-ggtext/ggtext_ShanEllis): 10 of 28 cases match. |
 
 The gaps found in the second package:
 
@@ -29,7 +29,9 @@ The gaps found in the second package:
 - extra top padding in boxes;
 - box outline drawn in the text colour;
 - R colour names (`red3`, `grey40`) drawn black;
-- no `~sub~` / `^sup^` markdown.
+- no `~sub~` / `^sup^` markdown;
+- a boxed `element_markdown` title centred where R left-aligns it;
+- no `align_widths` on theme elements.
 
 ## Adding a case
 

@@ -1,6 +1,6 @@
 ---
 id: element_markdown_strips
-expect: {components: 0, measurable: false}
+expect: {components: 3}
 source: ggtext README - markdown facet strip labels
 data:
   wt: [2.62, 2.875, 2.32, 3.215, 3.44, 3.46, 3.57, 3.19, 3.15, 3.44]

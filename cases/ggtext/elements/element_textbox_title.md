@@ -1,7 +1,7 @@
 ---
 id: element_textbox_title
 geom: coverage
-expect: {components: 1, frame: true, measurable: false}
+expect: {components: 1, frame: true}
 source: 'ggtext docs: element_textbox_simple()'
 data:
   wt: [2.62, 2.875, 2.32, 3.215, 3.44, 3.46, 3.57, 3.19, 3.15, 3.44]

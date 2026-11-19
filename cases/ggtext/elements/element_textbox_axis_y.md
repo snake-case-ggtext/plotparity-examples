@@ -1,6 +1,6 @@
 ---
 id: element_textbox_axis_y
-expect: {components: 0, measurable: false}
+expect: {components: 1}
 source: ggtext docs - element_textbox(orientation = "left-rotated") for a wrapped y axis title
 data:
   wt: [2.62, 2.875, 2.32, 3.215, 3.44, 3.46, 3.57, 3.19, 3.15, 3.44]

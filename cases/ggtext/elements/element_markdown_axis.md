@@ -1,7 +1,7 @@
 ---
 id: element_markdown_axis
 geom: coverage
-expect: {components: 3, frame: false, measurable: false}
+expect: {components: 3, frame: false}
 source: 'ggtext README: element_markdown() axis labels'
 data:
   species: ['<i style=''color:#0072B2''>setosa</i>', '<i style=''color:#D55E00''>versicolor</i>', '<i style=''color:#009E73''>virginica</i>']

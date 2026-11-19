@@ -6,7 +6,7 @@
     "boxes": [
       {
         "box_index": 1,
-        "grob_name": "GRID.gTree.2459",
+        "grob_name": "GRID.gTree.4586",
         "grob_class": "forcedgrob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -124,6 +124,441 @@
         ]
       }
     ],
-    "extraction_ms": 69
+    "extraction_ms": 73
+  },
+  "ggtext_chrome": {
+    "engine": "r",
+    "panels_norm_tl": [
+      [0.0668, 0.0114, 0.9914, 0.9351]
+    ],
+    "components": [
+      {
+        "kind": "rich",
+        "role": null,
+        "cell_path": "panel",
+        "grob": "GRID.gTree.4623",
+        "angle_deg": 0,
+        "rect": {
+          "width_pt": 157.872,
+          "height_pt": 21.206,
+          "vertex_count": 51,
+          "is_rounded": true,
+          "fill": "#FFFFFF",
+          "col": "#000000",
+          "lty": null,
+          "lwd": 0.7113,
+          "bbox_norm_tl": [0.1508, 0.4512, 0.3975, 0.4954]
+        },
+        "text_runs": [
+          {
+            "text": "markdown",
+            "x_norm": 0.1564,
+            "y_norm": 0.4774,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 58.187,
+            "color": "#000000",
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          },
+          {
+            "text": "H",
+            "x_norm": 0.2528,
+            "y_norm": 0.4774,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 8.297,
+            "color": "#000000",
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          },
+          {
+            "text": "2",
+            "x_norm": 0.2658,
+            "y_norm": 0.4837,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 5.609,
+            "color": "#000000",
+            "fontsize_pt": 8.832,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          },
+          {
+            "text": "O",
+            "x_norm": 0.2746,
+            "y_norm": 0.4774,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 8.688,
+            "color": "#000000",
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          },
+          {
+            "text": "and",
+            "x_norm": 0.2936,
+            "y_norm": 0.4774,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 20.75,
+            "color": "#000000",
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          },
+          {
+            "text": "E=mc",
+            "x_norm": 0.3315,
+            "y_norm": 0.4774,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 33.031,
+            "color": "#000000",
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          },
+          {
+            "text": "2",
+            "x_norm": 0.3831,
+            "y_norm": 0.4712,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 5.609,
+            "color": "#000000",
+            "fontsize_pt": 8.832,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.text.4645",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "0.00",
+            "x_norm": 0.0285,
+            "y_norm": 0.8994,
+            "hjust": 1,
+            "vjust": 0.5,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.text.4645",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "0.25",
+            "x_norm": 0.0285,
+            "y_norm": 0.6894,
+            "hjust": 1,
+            "vjust": 0.5,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.text.4645",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "0.50",
+            "x_norm": 0.0285,
+            "y_norm": 0.4795,
+            "hjust": 1,
+            "vjust": 0.5,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.text.4645",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "0.75",
+            "x_norm": 0.0285,
+            "y_norm": 0.2696,
+            "hjust": 1,
+            "vjust": 0.5,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.text.4645",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "1.00",
+            "x_norm": 0.0285,
+            "y_norm": 0.0596,
+            "hjust": 1,
+            "vjust": 0.5,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.4641",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "0.00",
+            "x_norm": 0.0935,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.4641",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "0.25",
+            "x_norm": 0.3036,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.4641",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "0.50",
+            "x_norm": 0.5138,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.4641",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "0.75",
+            "x_norm": 0.724,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.4641",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "1.00",
+            "x_norm": 0.9341,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.title.x.bottom",
+        "cell_path": "xlab-b",
+        "grob": "GRID.text.4648",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "x",
+            "x_norm": 0.524,
+            "y_norm": 0.9844,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 6.516,
+            "color": "#000000",
+            "fontsize_pt": 11,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.title.y.left",
+        "cell_path": "ylab-l",
+        "grob": "GRID.text.4651",
+        "angle_deg": 90,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "y",
+            "x_norm": 0.0211,
+            "y_norm": 0.48,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 6.516,
+            "color": "#000000",
+            "fontsize_pt": 11,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 90
+          }
+        ]
+      }
+    ],
+    "gtable_cells": ["background", "spacer", "axis-l", "axis-t", "panel", "axis-b", "axis-r", "xlab-t", "xlab-b", "ylab-l", "ylab-r", "guide-box-right", "guide-box-left", "guide-box-bottom", "guide-box-top", "guide-box-inside", "subtitle", "title", "caption"],
+    "extraction_ms": 79
   }
 }

@@ -1,7 +1,7 @@
 ---
 id: element_markdown_title
 geom: coverage
-expect: {components: 2, frame: false, measurable: false}
+expect: {components: 2, frame: false}
 source: 'ggtext README: element_markdown() titles'
 data:
   wt: [2.62, 2.875, 2.32, 3.215, 3.44, 3.46, 3.57, 3.19, 3.15, 3.44]

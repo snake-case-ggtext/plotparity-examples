@@ -4,6 +4,366 @@
     "panel_bbox_norm_tl": [0.173, 0.0114, 0.9914, 0.9351],
     "box_count": 0,
     "boxes": [],
-    "extraction_ms": 89
+    "extraction_ms": 95
+  },
+  "ggtext_chrome": {
+    "engine": "r",
+    "panels_norm_tl": [
+      [0.173, 0.0114, 0.9914, 0.9351]
+    ],
+    "components": [
+      {
+        "kind": "rich",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.gTree.114",
+        "angle_deg": 0,
+        "rect": {
+          "width_pt": 87.578,
+          "height_pt": 8.003,
+          "vertex_count": 4,
+          "is_rounded": false,
+          "fill": "#FFF8DC",
+          "col": "none",
+          "lty": "0",
+          "lwd": 1.4226,
+          "bbox_norm_tl": [0.0285, 0.7536, 0.1653, 0.7702]
+        },
+        "text_runs": [
+          {
+            "text": "a",
+            "x_norm": 0.0285,
+            "y_norm": 0.7661,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 5.391,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          },
+          {
+            "text": "much",
+            "x_norm": 0.0413,
+            "y_norm": 0.7661,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 24.563,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          },
+          {
+            "text": "longer",
+            "x_norm": 0.084,
+            "y_norm": 0.7661,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 27.984,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          },
+          {
+            "text": "label",
+            "x_norm": 0.1321,
+            "y_norm": 0.7661,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 21.25,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "rich",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.gTree.115",
+        "angle_deg": 0,
+        "rect": {
+          "width_pt": 87.578,
+          "height_pt": 8.003,
+          "vertex_count": 4,
+          "is_rounded": false,
+          "fill": "#FFF8DC",
+          "col": "none",
+          "lty": "0",
+          "lwd": 1.4226,
+          "bbox_norm_tl": [0.0285, 0.4649, 0.1653, 0.4816]
+        },
+        "text_runs": [
+          {
+            "text": "mid",
+            "x_norm": 0.1394,
+            "y_norm": 0.4774,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 16.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "rich",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.gTree.116",
+        "angle_deg": 0,
+        "rect": {
+          "width_pt": 87.578,
+          "height_pt": 8.003,
+          "vertex_count": 4,
+          "is_rounded": false,
+          "fill": "#FFF8DC",
+          "col": "none",
+          "lty": "0",
+          "lwd": 1.4226,
+          "bbox_norm_tl": [0.0285, 0.1763, 0.1653, 0.1929]
+        },
+        "text_runs": [
+          {
+            "text": "short",
+            "x_norm": 0.13,
+            "y_norm": 0.1888,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 22.594,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.110",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "0",
+            "x_norm": 0.2058,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 5.594,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.110",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "1",
+            "x_norm": 0.3546,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 5.594,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.110",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "2",
+            "x_norm": 0.5034,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 5.594,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.110",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "3",
+            "x_norm": 0.6523,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 5.594,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.110",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "4",
+            "x_norm": 0.8011,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 5.594,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.110",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "5",
+            "x_norm": 0.9499,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 5.594,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.title.x.bottom",
+        "cell_path": "xlab-b",
+        "grob": "GRID.text.119",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "n",
+            "x_norm": 0.5768,
+            "y_norm": 0.9844,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 6.969,
+            "color": "#000000",
+            "fontsize_pt": 11,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.title.y.left",
+        "cell_path": "ylab-l",
+        "grob": "GRID.text.122",
+        "angle_deg": 90,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "label",
+            "x_norm": 0.0211,
+            "y_norm": 0.501,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 26.609,
+            "color": "#000000",
+            "fontsize_pt": 11,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 90
+          }
+        ]
+      }
+    ],
+    "gtable_cells": ["background", "spacer", "axis-l", "axis-t", "panel", "axis-b", "axis-r", "xlab-t", "xlab-b", "ylab-l", "ylab-r", "guide-box-right", "guide-box-left", "guide-box-bottom", "guide-box-top", "guide-box-inside", "subtitle", "title", "caption"],
+    "extraction_ms": 102
   }
 }

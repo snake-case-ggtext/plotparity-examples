@@ -1,6 +1,6 @@
 ---
 id: element_markdown_align_widths
-expect: {components: 0, measurable: false}
+expect: {components: 3}
 source: ggtext element_markdown(align_widths = TRUE) - boxed tick labels of equal width
 data:
   label: ["short", "a much longer label", "mid"]
