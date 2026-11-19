@@ -1,0 +1,57 @@
+# Mutation suite: each patch injects one known defect into a copy of the known_good port.
+# `plotparity selftest` asserts that at least one `must_fail` check fails on the listed cases
+# (or, for negative controls, that every listed case passes). Run it after changing checks/profile/adapter.
+
+[[mutation]]
+id = "M1_ignore_span_color"
+patch = "M1_ignore_span_color.patch"
+cases = ["richtext_example_markup"]
+must_fail = ["text_color"]
+
+[[mutation]]
+id = "M2_ignore_bold"
+patch = "M2_ignore_bold.patch"
+cases = ["richtext_example_markup"]
+must_fail = ["font_weight"]
+
+[[mutation]]
+id = "M3_break_textbox_wrap"
+patch = "M3_break_textbox_wrap.patch"
+cases = ["textbox_rotated_alignments"]
+must_fail = ["line_count", "text_overflow"]
+
+[[mutation]]
+id = "M4_break_sup_sub_voff"
+patch = "M4_break_sup_sub_voff.patch"
+cases = ["richtext_example_markup"]
+must_fail = ["sup_sub_offset"]
+
+[[mutation]]
+id = "M5_reverse_rotation"
+patch = "M5_reverse_rotation.patch"
+cases = ["richtext_rotated_colors"]
+must_fail = ["rotation"]
+
+[[mutation]]
+id = "M6_remove_rounded_corners"
+patch = "M6_remove_rounded_corners.patch"
+cases = ["textbox_rotated_alignments"]
+must_fail = ["rounded_corners"]
+
+[[mutation]]
+id = "M7_duplicate_label"
+patch = "M7_duplicate_label.patch"
+cases = ["richtext_example_markup"]
+must_fail = ["component_count", "unexpected_component"]
+
+[[mutation]]
+id = "M8_ignore_box_padding"
+patch = "M8_ignore_box_padding.patch"
+cases = ["richtext_example_markup"]
+must_fail = ["padding"]
+
+[[mutation]]
+id = "NC1_negative_control_reorder"
+patch = "NC1_negative_control_reorder.patch"
+cases = ["richtext_example_markup"]
+must_pass = true

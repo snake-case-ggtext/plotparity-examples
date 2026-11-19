@@ -1,0 +1,13 @@
+diff --git a/src/plotnine_ggtext/_artist.py b/src/plotnine_ggtext/_artist.py
+index af82fb1..a312888 100644
+--- a/src/plotnine_ggtext/_artist.py
++++ b/src/plotnine_ggtext/_artist.py
+@@ -31,7 +31,7 @@ _KAPPA = 0.5522847498
+ 
+ def rounded_rect_path(x: float, y: float, w: float, h: float, r: float) -> Path:
+     """Rounded rectangle path, like `grid::roundrectGrob()`"""
+-    r = max(0.0, min(r, w / 2, h / 2))
++    r = 0.0  # MUTANT M6: remove rounded corners
+     if r == 0:
+         verts = [(x, y), (x + w, y), (x + w, y + h), (x, y + h), (x, y)]
+         codes = [Path.MOVETO] + [Path.LINETO] * 3 + [Path.CLOSEPOLY]

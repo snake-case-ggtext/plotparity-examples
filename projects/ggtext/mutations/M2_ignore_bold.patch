@@ -1,0 +1,13 @@
+diff --git a/src/plotnine_ggtext/_markup.py b/src/plotnine_ggtext/_markup.py
+index 925cfd7..246b262 100644
+--- a/src/plotnine_ggtext/_markup.py
++++ b/src/plotnine_ggtext/_markup.py
+@@ -175,7 +175,7 @@ class _Builder(HTMLParser):
+         else:
+             ctx = _apply_css(ctx, attrs.get("style"))
+             if tag in ("b", "strong"):
+-                ctx = replace(ctx, style=replace(ctx.style, weight="bold"))
++                pass  # MUTANT M2: ignore bold formatting
+             elif tag in ("i", "em"):
+                 ctx = replace(ctx, style=replace(ctx.style, style="italic"))
+ 

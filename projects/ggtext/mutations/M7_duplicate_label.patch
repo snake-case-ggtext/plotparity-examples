@@ -1,0 +1,17 @@
+diff --git a/src/plotnine_ggtext/_artist.py b/src/plotnine_ggtext/_artist.py
+index af82fb1..97217f8 100644
+--- a/src/plotnine_ggtext/_artist.py
++++ b/src/plotnine_ggtext/_artist.py
+@@ -124,7 +124,11 @@ class RichTextCollection(Artist):
+         npc_w, npc_h = self._panel_size_pt()
+         px_per_pt = self.figure.dpi / 72  # pyright: ignore
+         items = []
+-        for s in self.specs:
++        specs_iter = list(self.specs)
++        if specs_iter:
++            from dataclasses import replace as _dc_replace
++            specs_iter.append(_dc_replace(specs_iter[0], x=specs_iter[0].x + 0.18, y=specs_iter[0].y - 0.08))  # MUTANT M7: duplicate label
++        for s in specs_iter:
+             if not (np.isfinite(s.x) and np.isfinite(s.y)):
+                 continue
+             L = s.layout(npc_w, npc_h)

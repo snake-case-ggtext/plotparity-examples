@@ -1,0 +1,314 @@
+{
+  "ggtext_grobs": {
+    "probe": "2D_r_grid_grob",
+    "panel_bbox_norm_tl": [0.0668, 0.0114, 0.9914, 0.9351],
+    "box_count": 4,
+    "boxes": [
+      {
+        "box_index": 1,
+        "grob_name": "GRID.gTree.607",
+        "grob_class": "forcedgrob,gTree,grob,gDesc",
+        "angle_deg": 0,
+        "rect": {
+          "grob_class": "forcedgrob,polygon,grob,gDesc",
+          "width_pt": 130.202,
+          "height_pt": 17.272,
+          "local_bbox_pt": [0, 0, 130.202, 17.272],
+          "vertex_count": 51,
+          "is_rounded": true,
+          "col": "#858E4E",
+          "fill": "#E6EBD1",
+          "lwd": 0.2845,
+          "bbox_norm_tl": [0.5572, 0.4553, 0.7599, 0.4912]
+        },
+        "text_runs": [
+          {
+            "text": "The",
+            "x_norm": 0.5628,
+            "y_norm": 0.4795,
+            "x_local_pt": 21.681,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 0
+          },
+          {
+            "text": "quick",
+            "x_norm": 0.6004,
+            "y_norm": 0.4795,
+            "x_local_pt": 45.771,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "bold",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 0
+          },
+          {
+            "text": "brown",
+            "x_norm": 0.6635,
+            "y_norm": 0.4795,
+            "x_local_pt": 86.329,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "italic",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 0
+          },
+          {
+            "text": "fox.",
+            "x_norm": 0.7225,
+            "y_norm": 0.4795,
+            "x_local_pt": 124.252,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "box_index": 2,
+        "grob_name": "GRID.gTree.608",
+        "grob_class": "forcedgrob,gTree,grob,gDesc",
+        "angle_deg": 45,
+        "rect": {
+          "grob_class": "forcedgrob,polygon,grob,gDesc",
+          "width_pt": 130.202,
+          "height_pt": 17.272,
+          "local_bbox_pt": [0, 0, 130.202, 17.272],
+          "vertex_count": 51,
+          "is_rounded": true,
+          "col": "#24988F",
+          "fill": "#CDEFE9",
+          "lwd": 0.7113,
+          "bbox_norm_tl": [0.5409, 0.2448, 0.7004, 0.4575]
+        },
+        "text_runs": [
+          {
+            "text": "The",
+            "x_norm": 0.5563,
+            "y_norm": 0.4459,
+            "x_local_pt": 21.681,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 45
+          },
+          {
+            "text": "quick",
+            "x_norm": 0.5828,
+            "y_norm": 0.4105,
+            "x_local_pt": 45.771,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "bold",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 45
+          },
+          {
+            "text": "brown",
+            "x_norm": 0.6274,
+            "y_norm": 0.351,
+            "x_local_pt": 86.329,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "italic",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 45
+          },
+          {
+            "text": "fox.",
+            "x_norm": 0.6692,
+            "y_norm": 0.2953,
+            "x_local_pt": 124.252,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 45
+          }
+        ]
+      },
+      {
+        "box_index": 3,
+        "grob_name": "GRID.gTree.609",
+        "grob_class": "forcedgrob,gTree,grob,gDesc",
+        "angle_deg": 90,
+        "rect": {
+          "grob_class": "forcedgrob,polygon,grob,gDesc",
+          "width_pt": 130.202,
+          "height_pt": 17.272,
+          "local_bbox_pt": [0, 0, 130.202, 17.272],
+          "vertex_count": 51,
+          "is_rounded": true,
+          "col": "#8C82B8",
+          "fill": "#E8E6FC",
+          "lwd": 1.4226,
+          "bbox_norm_tl": [0.5157, 0.1655, 0.5425, 0.4358]
+        },
+        "text_runs": [
+          {
+            "text": "The",
+            "x_norm": 0.5338,
+            "y_norm": 0.4283,
+            "x_local_pt": 21.681,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 90
+          },
+          {
+            "text": "quick",
+            "x_norm": 0.5338,
+            "y_norm": 0.3783,
+            "x_local_pt": 45.771,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "bold",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 90
+          },
+          {
+            "text": "brown",
+            "x_norm": 0.5338,
+            "y_norm": 0.2941,
+            "x_local_pt": 86.329,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "italic",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 90
+          },
+          {
+            "text": "fox.",
+            "x_norm": 0.5338,
+            "y_norm": 0.2154,
+            "x_local_pt": 124.252,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 90
+          }
+        ]
+      },
+      {
+        "box_index": 4,
+        "grob_name": "GRID.gTree.610",
+        "grob_class": "forcedgrob,gTree,grob,gDesc",
+        "angle_deg": 135,
+        "rect": {
+          "grob_class": "forcedgrob,polygon,grob,gDesc",
+          "width_pt": 130.202,
+          "height_pt": 17.272,
+          "local_bbox_pt": [0, 0, 130.202, 17.272],
+          "vertex_count": 51,
+          "is_rounded": true,
+          "col": "#B97681",
+          "fill": "#FEE1E5",
+          "lwd": 2.8453,
+          "bbox_norm_tl": [0.3578, 0.2448, 0.5173, 0.4575]
+        },
+        "text_runs": [
+          {
+            "text": "The",
+            "x_norm": 0.5085,
+            "y_norm": 0.437,
+            "x_local_pt": 21.681,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 135
+          },
+          {
+            "text": "quick",
+            "x_norm": 0.482,
+            "y_norm": 0.4017,
+            "x_local_pt": 45.771,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "bold",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 135
+          },
+          {
+            "text": "brown",
+            "x_norm": 0.4374,
+            "y_norm": 0.3421,
+            "x_local_pt": 86.329,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "italic",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 135
+          },
+          {
+            "text": "fox.",
+            "x_norm": 0.3956,
+            "y_norm": 0.2865,
+            "x_local_pt": 124.252,
+            "y_local_pt": -3.014,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 135
+          }
+        ]
+      }
+    ],
+    "extraction_ms": 126
+  }
+}

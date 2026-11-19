@@ -1,0 +1,15 @@
+# Shared ggtext case library: the R side is the spec. Any Python port can be evaluated against it by a project
+# (projects/<name>/parity.toml) that points here and defines its own splits.
+# Everything that affects the stored R references lives here (references depend only on the R side).
+[library]
+adapter = "ggtext"
+
+[reference]
+engine = "r"
+packages = ["ggplot2", "ggtext"]
+# R packages come from your normal R library, or set R_LIBS_USER (only needed for `plotparity references`).
+
+[render]
+width_px = 640
+height_px = 480
+dpi = 72

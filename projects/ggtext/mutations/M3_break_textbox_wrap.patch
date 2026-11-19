@@ -1,0 +1,13 @@
+diff --git a/src/plotnine_ggtext/geom_textbox.py b/src/plotnine_ggtext/geom_textbox.py
+index 1dd23e0..51e0559 100644
+--- a/src/plotnine_ggtext/geom_textbox.py
++++ b/src/plotnine_ggtext/geom_textbox.py
+@@ -136,7 +136,7 @@ class geom_textbox(geom_rich_base):
+             def _do(h):
+                 return layout_rect_box(
+                     pars, margin, padding,
+-                    width=width, height=h, wrap=width is not None,
++                    width=width, height=h, wrap=False,  # MUTANT M3: break wrapping
+                     content_hjust=halign, content_vjust=valign, r=r,
+                 )  # fmt: skip
+ 

@@ -1,0 +1,22 @@
+diff --git a/src/plotnine_ggtext/_artist.py b/src/plotnine_ggtext/_artist.py
+index af82fb1..1326545 100644
+--- a/src/plotnine_ggtext/_artist.py
++++ b/src/plotnine_ggtext/_artist.py
+@@ -133,7 +133,7 @@ class RichTextCollection(Artist):
+                 Affine2D()
+                 .translate(-s.hjust * L.width, -s.vjust * L.height)
+                 .scale(px_per_pt)
+-                .rotate_deg(s.angle)
++                .rotate_deg(-s.angle)  # MUTANT M5: reverse box rotation
+                 .translate(ax_px, ay_px)
+             )
+ 
+@@ -155,7 +155,7 @@ class RichTextCollection(Artist):
+                     t.text,
+                     color=rgba(color, s.alpha),
+                     fontproperties=font_properties(t.style),
+-                    rotation=s.angle,
++                    rotation=-s.angle,  # MUTANT M5
+                     rotation_mode="anchor",
+                     horizontalalignment="left",
+                     verticalalignment="baseline",

@@ -1,0 +1,13 @@
+diff --git a/src/plotnine_ggtext/_layout.py b/src/plotnine_ggtext/_layout.py
+index 39234a6..678f928 100644
+--- a/src/plotnine_ggtext/_layout.py
++++ b/src/plotnine_ggtext/_layout.py
+@@ -251,7 +251,7 @@ def layout_rect_box(
+         (requires `width`).
+     """
+     mt, mr, mb, ml = margin
+-    pt, pr, pb, pl = padding
++    pt, pr, pb, pl = (0.0, 0.0, 0.0, 0.0)  # MUTANT M8: ignore box padding
+     hextra = ml + mr + pl + pr
+     vextra = mt + mb + pt + pb
+ 

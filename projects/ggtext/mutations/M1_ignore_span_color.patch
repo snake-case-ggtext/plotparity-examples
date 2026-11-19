@@ -1,0 +1,13 @@
+diff --git a/src/plotnine_ggtext/_markup.py b/src/plotnine_ggtext/_markup.py
+index 925cfd7..bd1247d 100644
+--- a/src/plotnine_ggtext/_markup.py
++++ b/src/plotnine_ggtext/_markup.py
+@@ -118,7 +118,7 @@ def _apply_css(ctx: _Context, style_attr: str | None) -> _Context:
+         return ctx
+     kw = {}
+     if "color" in css:
+-        kw["color"] = css["color"]
++        pass  # MUTANT M1: ignore inline span color
+     if "font-family" in css:
+         kw["family"] = css["font-family"].strip("'\"")
+     if "font-size" in css:

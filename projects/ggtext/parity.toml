@@ -1,0 +1,37 @@
+# plotparity project: the shared ggtext case library (R ggtext = spec) vs the plotnine-ggtext port.
+[project]
+default_select = "dev"
+
+[cases]
+library = "../../cases/ggtext"
+
+# Splits are THIS project's choice: globs over library-relative paths (folder/id) or ids. Splits must not overlap.
+# A case outside every split is still selectable by id / glob / `all`.
+[splits]
+dev = [
+  "geom_richtext/richtext_rotated_colors",
+  "geom_richtext/richtext_example_markup",
+  "geom_richtext/richtext_example_no_frame",
+  "geom_textbox/textbox_rotated_alignments",
+  "geom_textbox/textbox_example_npc_width",
+  "markup/richtext_feature_matrix_css",
+]
+holdout = [
+  "geom_richtext/richtext_text_color_alpha",
+  "geom_textbox/textbox_size_limits_paragraphs",
+  "geom_textbox/textbox_native_no_wrap",
+  "markup/richtext_feature_matrix_scripts",
+]
+coverage = ["elements/*", "markup/coverage_*"]   # R features this port lacks: the backlog
+
+[candidate]
+engine = "python"
+package = "plotnine_ggtext"                   # also the tag of this port's ```python blocks in case files
+source = "git+https://github.com/snake-case-ggtext/plotnine-ggtext@294826676a22e53b9dec06f0789b16610ddccfc1"   # override per run with --source (path or git+URL@commit)
+known_good = "git+https://github.com/snake-case-ggtext/plotnine-ggtext@294826676a22e53b9dec06f0789b16610ddccfc1"   # defines what dev/holdout must pass (validate, selftest)
+requirements = ["markdown>=3.5"]              # the port's dependencies; plotparity builds and caches this env with uv
+# Names R ggtext exports. A case using one the port lacks is a port finding (missing_api), not a case bug.
+api = ["geom_richtext", "geom_textbox", "element_markdown", "element_textbox", "element_textbox_simple"]
+
+[render]
+timeout_s = 60

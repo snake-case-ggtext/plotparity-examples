@@ -1,0 +1,13 @@
+diff --git a/src/plotnine_ggtext/_artist.py b/src/plotnine_ggtext/_artist.py
+index af82fb1..47c6542 100644
+--- a/src/plotnine_ggtext/_artist.py
++++ b/src/plotnine_ggtext/_artist.py
+@@ -124,7 +124,7 @@ class RichTextCollection(Artist):
+         npc_w, npc_h = self._panel_size_pt()
+         px_per_pt = self.figure.dpi / 72  # pyright: ignore
+         items = []
+-        for s in self.specs:
++        for s in reversed(self.specs):  # NEGATIVE CONTROL NC1: reverse draw order of non-overlapping boxes
+             if not (np.isfinite(s.x) and np.isfinite(s.y)):
+                 continue
+             L = s.layout(npc_w, npc_h)
