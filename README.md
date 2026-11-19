@@ -2,6 +2,8 @@
 
 Test cases and example setups for [plotparity](https://github.com/snake-case-ggtext/plotparity), which tests a plotnine extension against its ggplot2 original.
 
+**[Example reports](https://snake-case-ggtext.github.io/plotparity-examples/)**: the latest report for each project below, published from `docs/`. Rebuild them with `scripts/build_site.sh` (it runs each project and writes the reports with `plotparity view --public`).
+
 ## Run it
 
 You need [uv](https://docs.astral.sh/uv/). You don't need R (the R renders are stored here) or the packages (each setup fetches its package from GitHub at a pinned commit).

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>plotparity examples</title>
+<style>
+:root{--bg:#fbfaf7;--surface:#fff;--ink:#1d1d1b;--ink-2:#55544f;--ink-3:#85837c;--line:#e6e3dc;--accent:#2f5bd3;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#141412;--surface:#1c1c1a;--ink:#ecebe6;--ink-2:#b5b3ab;--ink-3:#85837c;--line:#2e2d29;--accent:#7d9cf0;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:760px;margin:0 auto;padding:56px 16px 72px}
+h1{font-size:28px;margin:0 0 8px;letter-spacing:-.01em}
+.lede{color:var(--ink-2);margin:0 0 36px;max-width:620px}
+h2{font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-3);margin:36px 0 10px}
+a{color:var(--accent)}
+.card{display:block;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:0 0 10px}
+.card:hover{border-color:var(--accent)}
+.card b{font-size:17px;color:var(--accent)}
+.card p{margin:4px 0 0;color:var(--ink-2);font-size:14.5px}
+.card code,.lede code{font-size:13.5px}
+ul{color:var(--ink-2);padding-left:20px;font-size:14.5px}
+li{margin:3px 0}
+kbd{font:12px ui-monospace,Menlo,monospace;border:1px solid var(--line);border-bottom-width:2px;border-radius:4px;padding:0 4px;background:var(--surface)}
+footer{margin-top:44px;color:var(--ink-3);font-size:13.5px}
+</style>
+</head>
+<body>
+<main>
+<h1>plotparity examples</h1>
+<p class="lede"><a href="https://github.com/snake-case-ggtext/plotparity">plotparity</a> tests a plotnine extension against its ggplot2 original: each test plot is drawn in R and in Python, and every label, shape and colour is compared. These are its reports for three packages.</p>
+
+<h2>ggtext</h2>
+<a class="card" href="ggtext.html"><b>plotnine-ggtext</b>
+<p>Matches R on every feature it implements. The cases that differ use features it doesn't have yet: theme elements, <code>&lt;img&gt;</code>, R colour names, <code>~sub~</code>/<code>^sup^</code>.</p></a>
+<a class="card" href="ggtext-shanellis.html"><b>Shannon Ellis's ggtext</b>
+<p>A second Python ggtext with real gaps: box padding, superscript size, title alignment, theme options.</p></a>
+
+<h2>ggridges</h2>
+<a class="card" href="ridgenine.html"><b>ridgenine</b>
+<p>Ridgeline plots for plotnine. Each case has an <code>_r_defaults</code> twin that passes ggridges' defaults explicitly, separating different defaults from different behaviour.</p></a>
+
+<h2>Reading a report</h2>
+<ul>
+<li>Pick a case on the left; its R and Python renders are compared on the right, with each finding outlined on both.</li>
+<li>Views: side by side <kbd>s</kbd>, blink <kbd>b</kbd>, swipe <kbd>w</kbd>, difference <kbd>d</kbd>. Hold <kbd>space</kbd> to flip.</li>
+<li>Findings list R's value and Python's, and how far apart they are (<code>Δ 3.09 &gt; 2</code>). <b>Settings</b> shows every check's tolerance.</li>
+<li><b>OK</b> marks a finding as reviewed; marks stay in your browser only.</li>
+</ul>
+
+<footer>Cases and setups: <a href="https://github.com/snake-case-ggtext/plotparity-examples">plotparity-examples</a>. Rebuilt with <code>scripts/build_site.sh</code>.</footer>
+</main>
+</body>
+</html>
