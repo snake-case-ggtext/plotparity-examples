@@ -1,0 +1,25 @@
+{
+  "case": "density_scale_alpha_r_defaults",
+  "input_hash": "1a05ec7a5728fb99bd15f7067e388afb831547373e209ec8412cc09cb39e493c",
+  "font_hashes": {
+    "DejaVuSans.ttf": "3fdf69cabf06049e",
+    "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
+    "DejaVuSans-Oblique.ttf": "ccdf74b350f11fd3",
+    "DejaVuSans-BoldOblique.ttf": "6edf0283160186af"
+  },
+  "r_env": {
+    "r_version": "R version 4.3.2 (2023-10-31)",
+    "platform": "aarch64-apple-darwin20",
+    "packages": {
+      "ggplot2": "3.5.0",
+      "ggridges": "0.5.6",
+      "ragg": "1.2.7",
+      "systemfonts": "1.2.3",
+      "jsonlite": "1.8.8"
+    }
+  },
+  "adapter": [
+    "ggridges",
+    "0.1.0"
+  ]
+}

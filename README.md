@@ -23,7 +23,7 @@ The first passes. The other two show packages with real gaps.
 | [`cases/ggtext/`](cases/ggtext/) | Cases for R's ggtext, one Markdown file each: shared data, the R code, and a Python block per package. Stored R renders are in `_references/`. |
 | [`projects/ggtext/`](projects/ggtext/parity.toml) | [plotnine-ggtext](https://github.com/snake-case-ggtext/plotnine-ggtext) with `dev` / `holdout` / `coverage` splits. `plotparity run` runs `dev`; `--split coverage` shows what it lacks. Also has the mutation suite for `plotparity selftest`. |
 | [`projects/ggtext-shanellis/`](projects/ggtext-shanellis/parity.toml) | [Shannon Ellis's ggtext](https://github.com/snake-case-ggtext/ggtext_ShanEllis), a package with real gaps. |
-| [`cases/ggridges/`](cases/ggridges/) | Cases for R's ggridges: density ridges (defaults, scale and alpha, bandwidth and trimming, fill, histograms, quantile lines) and `geom_ridgeline`. |
+| [`cases/ggridges/`](cases/ggridges/) | Cases for R's ggridges: density ridges (defaults, scale and alpha, bandwidth and trimming, fill, histograms, quantile lines) and `geom_ridgeline`. Each has an `_r_defaults` twin where the Python passes ggridges' defaults explicitly, which separates different defaults from different behaviour. |
 | [`projects/ridgenine/`](projects/ridgenine/parity.toml) | [ridgenine](https://github.com/briandconnelly/ridgenine), ridgeline plots for plotnine. |
 
 
