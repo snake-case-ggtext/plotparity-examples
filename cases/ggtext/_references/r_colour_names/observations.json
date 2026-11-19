@@ -6,7 +6,7 @@
     "boxes": [
       {
         "box_index": 1,
-        "grob_name": "GRID.gTree.1305",
+        "grob_name": "GRID.gTree.2625",
         "grob_class": "forcedgrob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -96,6 +96,6 @@
         ]
       }
     ],
-    "extraction_ms": 63
+    "extraction_ms": 67
   }
 }

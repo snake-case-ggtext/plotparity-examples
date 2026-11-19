@@ -2,7 +2,6 @@
 cases = "../../cases/ggtext"
 from = "git+https://github.com/snake-case-ggtext/plotnine-ggtext@294826676a22e53b9dec06f0789b16610ddccfc1"
 known_good = "git+https://github.com/snake-case-ggtext/plotnine-ggtext@294826676a22e53b9dec06f0789b16610ddccfc1"
-default_split = "dev"
 # Names R ggtext exports: a case using one the package lacks is reported as missing_api.
 api = ["geom_richtext", "geom_textbox", "element_markdown", "element_textbox", "element_textbox_simple"]
 

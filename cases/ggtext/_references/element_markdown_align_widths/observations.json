@@ -1,0 +1,9 @@
+{
+  "ggtext_grobs": {
+    "probe": "2D_r_grid_grob",
+    "panel_bbox_norm_tl": [0.173, 0.0114, 0.9914, 0.9351],
+    "box_count": 0,
+    "boxes": [],
+    "extraction_ms": 89
+  }
+}

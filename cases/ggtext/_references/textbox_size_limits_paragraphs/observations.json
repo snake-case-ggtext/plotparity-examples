@@ -6,7 +6,7 @@
     "boxes": [
       {
         "box_index": 1,
-        "grob_name": "GRID.textbox_grob.1136",
+        "grob_name": "GRID.textbox_grob.2375",
         "grob_class": "forcedgrob,textbox_grob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -321,7 +321,7 @@
       },
       {
         "box_index": 2,
-        "grob_name": "GRID.textbox_grob.1137",
+        "grob_name": "GRID.textbox_grob.2376",
         "grob_class": "forcedgrob,textbox_grob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -636,7 +636,7 @@
       },
       {
         "box_index": 3,
-        "grob_name": "GRID.textbox_grob.1138",
+        "grob_name": "GRID.textbox_grob.2377",
         "grob_class": "forcedgrob,textbox_grob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -671,7 +671,7 @@
       },
       {
         "box_index": 4,
-        "grob_name": "GRID.textbox_grob.1139",
+        "grob_name": "GRID.textbox_grob.2378",
         "grob_class": "forcedgrob,textbox_grob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -1027,6 +1027,6 @@
         ]
       }
     ],
-    "extraction_ms": 111
+    "extraction_ms": 120
   }
 }

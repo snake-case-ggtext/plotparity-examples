@@ -6,7 +6,7 @@
     "boxes": [
       {
         "box_index": 1,
-        "grob_name": "GRID.gTree.435",
+        "grob_name": "GRID.gTree.1231",
         "grob_class": "forcedgrob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -83,7 +83,7 @@
       },
       {
         "box_index": 2,
-        "grob_name": "GRID.gTree.436",
+        "grob_name": "GRID.gTree.1232",
         "grob_class": "forcedgrob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -146,7 +146,7 @@
       },
       {
         "box_index": 3,
-        "grob_name": "GRID.gTree.437",
+        "grob_name": "GRID.gTree.1233",
         "grob_class": "forcedgrob,gTree,grob,gDesc",
         "angle_deg": 45,
         "rect": {
@@ -279,7 +279,7 @@
       },
       {
         "box_index": 4,
-        "grob_name": "GRID.gTree.438",
+        "grob_name": "GRID.gTree.1234",
         "grob_class": "forcedgrob,gTree,grob,gDesc",
         "angle_deg": -45,
         "rect": {
@@ -467,6 +467,6 @@
         ]
       }
     ],
-    "extraction_ms": 107
+    "extraction_ms": 102
   }
 }

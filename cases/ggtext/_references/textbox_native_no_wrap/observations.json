@@ -6,7 +6,7 @@
     "boxes": [
       {
         "box_index": 1,
-        "grob_name": "GRID.textbox_grob.925",
+        "grob_name": "GRID.textbox_grob.2166",
         "grob_class": "forcedgrob,textbox_grob,gTree,grob,gDesc",
         "angle_deg": 0,
         "rect": {
@@ -82,6 +82,6 @@
         ]
       }
     ],
-    "extraction_ms": 73
+    "extraction_ms": 70
   }
 }

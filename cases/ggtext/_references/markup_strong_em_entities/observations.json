@@ -1,0 +1,122 @@
+{
+  "ggtext_grobs": {
+    "probe": "2D_r_grid_grob",
+    "panel_bbox_norm_tl": [0.0668, 0.0114, 0.9914, 0.9351],
+    "box_count": 2,
+    "boxes": [
+      {
+        "box_index": 1,
+        "grob_name": "GRID.gTree.2541",
+        "grob_class": "forcedgrob,gTree,grob,gDesc",
+        "angle_deg": 0,
+        "rect": {
+          "grob_class": "forcedgrob,polygon,grob,gDesc",
+          "width_pt": 93.075,
+          "height_pt": 17.208,
+          "local_bbox_pt": [0, 0, 93.075, 17.208],
+          "vertex_count": 51,
+          "is_rounded": true,
+          "col": "#000000",
+          "fill": "#FFFFFF",
+          "alpha": 1,
+          "lwd": 0.7113,
+          "bbox_norm_tl": [0.1508, 0.2874, 0.2962, 0.3232]
+        },
+        "text_runs": [
+          {
+            "text": "strong",
+            "x_norm": 0.1564,
+            "y_norm": 0.3116,
+            "x_local_pt": 3.6,
+            "y_local_pt": -3.002,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "bold",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 0
+          },
+          {
+            "text": "and",
+            "x_norm": 0.2254,
+            "y_norm": 0.3116,
+            "x_local_pt": 47.694,
+            "y_local_pt": -3.002,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 0
+          },
+          {
+            "text": "em",
+            "x_norm": 0.2632,
+            "y_norm": 0.3116,
+            "x_local_pt": 71.944,
+            "y_local_pt": -3.002,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "italic",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "box_index": 2,
+        "grob_name": "GRID.gTree.2542",
+        "grob_class": "forcedgrob,gTree,grob,gDesc",
+        "angle_deg": 0,
+        "rect": {
+          "grob_class": "forcedgrob,polygon,grob,gDesc",
+          "width_pt": 76.059,
+          "height_pt": 17.208,
+          "local_bbox_pt": [0, 0, 76.059, 17.208],
+          "vertex_count": 51,
+          "is_rounded": true,
+          "col": "#000000",
+          "fill": "#FFFFFF",
+          "alpha": 1,
+          "lwd": 0.7113,
+          "bbox_norm_tl": [0.1508, 0.6233, 0.2697, 0.6591]
+        },
+        "text_runs": [
+          {
+            "text": "AT&T",
+            "x_norm": 0.1564,
+            "y_norm": 0.6474,
+            "x_local_pt": 3.6,
+            "y_local_pt": -3.002,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 0
+          },
+          {
+            "text": "<tag>",
+            "x_norm": 0.2069,
+            "y_norm": 0.6474,
+            "x_local_pt": 35.866,
+            "y_local_pt": -3.002,
+            "color": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "angle_deg": 0
+          }
+        ]
+      }
+    ],
+    "extraction_ms": 71
+  }
+}
