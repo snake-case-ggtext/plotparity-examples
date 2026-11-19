@@ -6,10 +6,10 @@
 case = "textbox_example_npc_width"
 check = "line_count"
 component = "box[2:*"
-reason = "ggplot2's panel is 6.8pt taller than plotnine's (theme chrome, not ggtext): width=unit(0.4,'npc') on a right-rotated box scales with panel height, so R wraps to 5 lines vs 6. Belongs to plotnine theme parity. PENDING human sign-off (proposed by Claude 2026-11-19 from REPORT.md evidence)."
+reason = "ggplot2's panel is 6.8pt taller than plotnine's (theme chrome, not ggtext): width=unit(0.4,'npc') on a right-rotated box scales with panel height, so R wraps to 5 lines vs 6. Belongs to plotnine theme parity. Approved 2026-11-19 by the project owner (decision delegated to Claude in chat; evidence: ggplot2 panel 442.8pt vs plotnine 436.0pt, REPORT.md Area 3)."
 
 [[difference]]
 case = "textbox_example_npc_width"
 check = "shape_size"
 component = "box[2:*/height"
-reason = "Consequence of the line_count difference above (one extra line). PENDING human sign-off (proposed by Claude 2026-11-19)."
+reason = "Consequence of the line_count difference above (one extra line). Approved 2026-11-19 by the project owner (delegated to Claude in chat), with the entry above."

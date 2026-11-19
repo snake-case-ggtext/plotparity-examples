@@ -1,0 +1,15 @@
+diff --git a/src/plotnine_ggtext/_artist.py b/src/plotnine_ggtext/_artist.py
+index af82fb1..e5eb03d 100644
+--- a/src/plotnine_ggtext/_artist.py
++++ b/src/plotnine_ggtext/_artist.py
+@@ -179,6 +179,10 @@ class RichTextCollection(Artist):
+                     a.set_clip_box(ax.bbox)
+                 a.draw(renderer)
+         renderer.close_group("richtext")
++        from matplotlib.patches import Rectangle  # MUTANT M9: a red square drawn after the rich-text group
++        _extra = Rectangle((200, 200), 100, 100, facecolor="red")
++        _extra.set_figure(self.figure)  # pyright: ignore
++        _extra.draw(renderer)
+         self.stale = False
+ 
+     def get_window_extent(self, renderer=None):

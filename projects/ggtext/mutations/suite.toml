@@ -1,5 +1,6 @@
 # Mutation suite: each patch injects one known defect into a copy of the known_good port.
-# `plotparity selftest` asserts that at least one `must_fail` check fails on the listed cases
+# `plotparity selftest` asserts that at least one `must_fail` check fails on the listed cases, and that the mutant
+# visibly changes the render (its PNG differs from the clean PNG: the Δpx column)
 # (or, for negative controls, that every listed case passes). Run it after changing checks/profile/adapter.
 
 [[mutation]]
@@ -55,3 +56,55 @@ id = "NC1_negative_control_reorder"
 patch = "NC1_negative_control_reorder.patch"
 cases = ["richtext_example_markup"]
 must_pass = true
+
+# ---- drawing the port does that no component accounts for (DESIGN.md §5, "Ownership") ----
+
+[[mutation]]
+id = "M9_extra_rect_after_group"
+patch = "M9_extra_rect_after_group.patch"   # review repro: a red square drawn after close_group("richtext")
+cases = ["richtext_example_markup"]
+must_fail = ["unexpected_drawing"]
+
+[[mutation]]
+id = "M10_extra_markers"
+patch = "M10_extra_markers.patch"           # an independent draw_markers call in its own group
+cases = ["richtext_example_markup"]
+must_fail = ["unexpected_drawing"]
+
+[[mutation]]
+id = "M11_open_path_in_group"
+patch = "M11_open_path_in_group.patch"      # an open path inside the rich-text group (rejected by segmentation)
+cases = ["richtext_example_markup"]
+must_fail = ["unexpected_drawing"]
+
+[[mutation]]
+id = "M12_box_outside_panel"
+patch = "M12_box_outside_panel.patch"       # the first box moved outside the panel, where it is clipped away
+cases = ["richtext_example_markup"]
+must_fail = ["unexpected_drawing", "text_visible"]
+
+# ---- visibility: drawn, but not (or barely) visible ----
+
+[[mutation]]
+id = "M13_text_alpha_zero"
+patch = "M13_text_alpha_zero.patch"
+cases = ["richtext_example_markup"]
+must_fail = ["text_alpha"]
+
+[[mutation]]
+id = "M14_text_alpha_005"
+patch = "M14_text_alpha_005.patch"          # review repro: text at alpha 0.05
+cases = ["richtext_example_markup"]
+must_fail = ["text_alpha"]
+
+[[mutation]]
+id = "M15_text_clipped"
+patch = "M15_text_clipped.patch"            # review repro: every text artist clipped to a 1x1 px box
+cases = ["richtext_example_markup"]
+must_fail = ["text_visible"]
+
+[[mutation]]
+id = "M16_frame_alpha"
+patch = "M16_frame_alpha.patch"             # frame fill at 25% opacity
+cases = ["richtext_example_markup"]
+must_fail = ["fill_color"]

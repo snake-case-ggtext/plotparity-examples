@@ -1,5 +1,5 @@
 ---
-id: coverage_element_textbox_title
+id: element_textbox_title
 geom: coverage
 expect: {components: 1, frame: true, measurable: false}
 source: 'ggtext docs: element_textbox_simple()'
@@ -8,7 +8,7 @@ data:
   mpg: [21.0, 21.0, 22.8, 21.4, 18.7, 18.1, 14.3, 24.4, 22.8, 19.2]
 ---
 
-# coverage_element_textbox_title
+# element_textbox_title
 
 R ggtext API coverage: element_textbox_simple() wrapping title with fill and padding.
 

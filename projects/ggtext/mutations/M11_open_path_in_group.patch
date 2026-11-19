@@ -1,0 +1,15 @@
+diff --git a/src/plotnine_ggtext/_artist.py b/src/plotnine_ggtext/_artist.py
+index af82fb1..10f545f 100644
+--- a/src/plotnine_ggtext/_artist.py
++++ b/src/plotnine_ggtext/_artist.py
+@@ -178,6 +178,10 @@ class RichTextCollection(Artist):
+                 if self._clip_on and ax is not None:
+                     a.set_clip_box(ax.bbox)
+                 a.draw(renderer)
++        from matplotlib.lines import Line2D  # MUTANT M11: a stray open path inside the rich-text group
++        _extra = Line2D([150, 450], [150, 330], color="red", linewidth=2)
++        _extra.set_figure(self.figure)  # pyright: ignore
++        _extra.draw(renderer)
+         renderer.close_group("richtext")
+         self.stale = False
+ 

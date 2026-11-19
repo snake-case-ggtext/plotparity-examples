@@ -1,0 +1,15 @@
+diff --git a/src/plotnine_ggtext/_artist.py b/src/plotnine_ggtext/_artist.py
+index af82fb1..b995ef6 100644
+--- a/src/plotnine_ggtext/_artist.py
++++ b/src/plotnine_ggtext/_artist.py
+@@ -179,6 +179,10 @@ class RichTextCollection(Artist):
+                     a.set_clip_box(ax.bbox)
+                 a.draw(renderer)
+         renderer.close_group("richtext")
++        from matplotlib.lines import Line2D  # MUTANT M10: independent markers (draw_markers), own group
++        _extra = Line2D([320], [240], marker="o", markersize=14, color="red", linestyle="none")
++        _extra.set_figure(self.figure)  # pyright: ignore
++        _extra.draw(renderer)
+         self.stale = False
+ 
+     def get_window_extent(self, renderer=None):

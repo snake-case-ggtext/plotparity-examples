@@ -1,6 +1,6 @@
 {
-  "case": "coverage_element_textbox_title",
-  "input_hash": "534900a73cebd5da4df475b459fd1796b441e23bf8dcdcbaf11ba3854ab81213",
+  "case": "markdown_sub_sup_syntax",
+  "input_hash": "70319ca1b729b5e567eb033c21aed5fe8aaf2cf3c07f3732c35b48336b60d3bc",
   "font_hashes": {
     "DejaVuSans.ttf": "3fdf69cabf06049e",
     "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",

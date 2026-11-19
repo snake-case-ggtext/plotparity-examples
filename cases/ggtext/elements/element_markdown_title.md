@@ -1,5 +1,5 @@
 ---
-id: coverage_element_markdown_title
+id: element_markdown_title
 geom: coverage
 expect: {components: 2, frame: false, measurable: false}
 source: 'ggtext README: element_markdown() titles'
@@ -8,7 +8,7 @@ data:
   mpg: [21.0, 21.0, 22.8, 21.4, 18.7, 18.1, 14.3, 24.4, 22.8, 19.2]
 ---
 
-# coverage_element_markdown_title
+# element_markdown_title
 
 R ggtext API coverage: element_markdown() for plot title and subtitle (ggtext README).
 

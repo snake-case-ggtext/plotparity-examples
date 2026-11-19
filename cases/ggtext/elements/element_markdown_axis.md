@@ -1,5 +1,5 @@
 ---
-id: coverage_element_markdown_axis
+id: element_markdown_axis
 geom: coverage
 expect: {components: 3, frame: false, measurable: false}
 source: 'ggtext README: element_markdown() axis labels'
@@ -8,7 +8,7 @@ data:
   n: [50, 50, 50]
 ---
 
-# coverage_element_markdown_axis
+# element_markdown_axis
 
 R ggtext API coverage: element_markdown() for axis tick labels with styled italics (ggtext README).
 

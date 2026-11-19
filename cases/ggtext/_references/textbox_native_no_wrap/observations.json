@@ -11,13 +11,14 @@
         "angle_deg": 0,
         "rect": {
           "grob_class": "forcedgrob,polygon,grob,gDesc",
-          "width_pt": 161.217,
-          "height_pt": 44.266,
-          "local_bbox_pt": [0, 0, 161.217, 44.266],
+          "width_pt": 160.615,
+          "height_pt": 44.101,
+          "local_bbox_pt": [0, 0, 160.615, 44.101],
           "vertex_count": 51,
           "is_rounded": true,
           "col": "none",
           "fill": "#FFFFE0",
+          "alpha": 1,
           "lwd": 0.7113,
           "bbox_norm_tl": [0.4036, 0.4273, 0.6546, 0.5192]
         },
@@ -26,8 +27,8 @@
             "text": "No",
             "x_norm": 0.4122,
             "y_norm": 0.4617,
-            "x_local_pt": 221.897,
-            "y_local_pt": 228.096,
+            "x_local_pt": 221.068,
+            "y_local_pt": 227.244,
             "color": "#000000",
             "alpha": 1,
             "fontsize_pt": 16,
@@ -40,8 +41,8 @@
             "text": "wrapping",
             "x_norm": 0.4541,
             "y_norm": 0.4617,
-            "x_local_pt": 248.81,
-            "y_local_pt": 228.096,
+            "x_local_pt": 247.88,
+            "y_local_pt": 227.244,
             "color": "#000000",
             "alpha": 1,
             "fontsize_pt": 16,
@@ -54,8 +55,8 @@
             "text": "with",
             "x_norm": 0.4122,
             "y_norm": 0.5015,
-            "x_local_pt": 221.897,
-            "y_local_pt": 208.896,
+            "x_local_pt": 221.068,
+            "y_local_pt": 208.115,
             "color": "#000000",
             "alpha": 1,
             "fontsize_pt": 16,
@@ -68,8 +69,8 @@
             "text": "width=None",
             "x_norm": 0.4731,
             "y_norm": 0.5015,
-            "x_local_pt": 261.027,
-            "y_local_pt": 208.896,
+            "x_local_pt": 260.052,
+            "y_local_pt": 208.115,
             "color": "#000000",
             "alpha": 1,
             "fontsize_pt": 16,
@@ -81,6 +82,6 @@
         ]
       }
     ],
-    "extraction_ms": 62
+    "extraction_ms": 73
   }
 }

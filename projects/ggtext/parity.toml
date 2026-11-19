@@ -22,7 +22,7 @@ holdout = [
   "geom_textbox/textbox_native_no_wrap",
   "markup/richtext_feature_matrix_scripts",
 ]
-coverage = ["elements/*", "markup/coverage_*"]   # R features this port lacks: the backlog
+coverage = ["elements/*", "markup/markdown_sub_sup_syntax", "markup/r_colour_names", "markup/richtext_img"]   # R features this port lacks: the backlog
 
 [candidate]
 engine = "python"

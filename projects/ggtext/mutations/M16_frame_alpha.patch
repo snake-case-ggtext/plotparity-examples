@@ -1,0 +1,13 @@
+diff --git a/src/plotnine_ggtext/_artist.py b/src/plotnine_ggtext/_artist.py
+index af82fb1..d39c408 100644
+--- a/src/plotnine_ggtext/_artist.py
++++ b/src/plotnine_ggtext/_artist.py
+@@ -141,7 +141,7 @@ class RichTextCollection(Artist):
+             patch = PathPatch(
+                 rounded_rect_path(rx, ry, rw, rh, L.r),
+                 transform=trans,
+-                facecolor=rgba(s.fill, s.alpha),
++                facecolor=rgba(s.fill, 0.25),  # MUTANT M16: frame fill at 25% opacity
+                 edgecolor=rgba(s.edgecolor, s.alpha),
+                 linewidth=s.linewidth,
+             )

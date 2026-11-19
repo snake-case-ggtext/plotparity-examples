@@ -1,6 +1,6 @@
 {
-  "case": "coverage_element_markdown_title",
-  "input_hash": "f50fe2f677f864f51d2ba6ec5c2c6a81ee7e9f9da8ec7c359bad2b3fa8866181",
+  "case": "element_markdown_title",
+  "input_hash": "8c86b4e7a57f91f508d9f9570ca55281d2331ab888c81ff0fb02f58481c5a2e2",
   "font_hashes": {
     "DejaVuSans.ttf": "3fdf69cabf06049e",
     "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",

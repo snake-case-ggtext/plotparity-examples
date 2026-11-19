@@ -1,0 +1,14 @@
+diff --git a/src/plotnine_ggtext/_artist.py b/src/plotnine_ggtext/_artist.py
+index af82fb1..8b30006 100644
+--- a/src/plotnine_ggtext/_artist.py
++++ b/src/plotnine_ggtext/_artist.py
+@@ -177,6 +177,9 @@ class RichTextCollection(Artist):
+                 a.set_figure(self.figure)  # pyright: ignore
+                 if self._clip_on and ax is not None:
+                     a.set_clip_box(ax.bbox)
++                if isinstance(a, Text):  # MUTANT M15: text clipped to a 1x1 px box (nothing shows)
++                    a.set_clip_on(True)
++                    a.set_clip_box(Bbox.from_bounds(0, 0, 1, 1))
+                 a.draw(renderer)
+         renderer.close_group("richtext")
+         self.stale = False

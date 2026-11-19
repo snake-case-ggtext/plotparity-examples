@@ -1,5 +1,5 @@
 ---
-id: coverage_richtext_img
+id: richtext_img
 geom: coverage
 expect: {components: 1, frame: true, measurable: false}
 source: 'gridtext: <img> tag in rich text'
@@ -9,7 +9,7 @@ data:
   label: <img src='{assets}/coverage_dot.png' width='20'/> inline image
 ---
 
-# coverage_richtext_img
+# richtext_img
 
 gridtext feature coverage: inline <img> in rich text. Unmeasured: probes do not record draw_image yet.
 

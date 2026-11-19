@@ -41,4 +41,4 @@ Follow [Writing cases](https://github.com/snake-case-ggtext/plotparity/blob/main
 4. `plotparity validate projects/ggtext`.
 5. Add the case to a split in each project's `parity.toml`.
 
-`known_differences.toml` files are human-owned. Each entry records a cross-engine difference a maintainer has accepted, with the reason. The npc-width entries in `projects/ggtext/` are still awaiting a maintainer's sign-off.
+`known_differences.toml` files are human-owned. Each entry records a cross-engine difference a maintainer has accepted, with the reason.

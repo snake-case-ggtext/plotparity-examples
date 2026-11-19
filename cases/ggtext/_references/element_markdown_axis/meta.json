@@ -1,6 +1,6 @@
 {
-  "case": "coverage_richtext_img",
-  "input_hash": "58ec20cbb8de42a8ac8d0f9cf074c18d44a85dcbdbce368ac002894a44cb95f8",
+  "case": "element_markdown_axis",
+  "input_hash": "5c94648654b809ee502faa3ef56e5a177dba80991d1398d8a14a0d9bc3df1a97",
   "font_hashes": {
     "DejaVuSans.ttf": "3fdf69cabf06049e",
     "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",

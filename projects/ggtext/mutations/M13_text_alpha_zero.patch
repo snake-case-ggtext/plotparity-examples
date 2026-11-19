@@ -1,0 +1,13 @@
+diff --git a/src/plotnine_ggtext/_artist.py b/src/plotnine_ggtext/_artist.py
+index af82fb1..efe4e7d 100644
+--- a/src/plotnine_ggtext/_artist.py
++++ b/src/plotnine_ggtext/_artist.py
+@@ -153,7 +153,7 @@ class RichTextCollection(Artist):
+                     px,
+                     py,
+                     t.text,
+-                    color=rgba(color, s.alpha),
++                    color=rgba(color, 0.0),  # MUTANT M13: fully transparent text
+                     fontproperties=font_properties(t.style),
+                     rotation=s.angle,
+                     rotation_mode="anchor",

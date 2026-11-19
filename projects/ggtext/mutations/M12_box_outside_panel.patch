@@ -1,0 +1,13 @@
+diff --git a/src/plotnine_ggtext/_artist.py b/src/plotnine_ggtext/_artist.py
+index af82fb1..7a86a85 100644
+--- a/src/plotnine_ggtext/_artist.py
++++ b/src/plotnine_ggtext/_artist.py
+@@ -129,6 +129,8 @@ class RichTextCollection(Artist):
+                 continue
+             L = s.layout(npc_w, npc_h)
+             ax_px, ay_px = ax.transData.transform((s.x, s.y))
++            if s is self.specs[0]:
++                ax_px -= 400  # MUTANT M12: the first box is moved left, outside the panel (and clipped away)
+             trans = (
+                 Affine2D()
+                 .translate(-s.hjust * L.width, -s.vjust * L.height)
