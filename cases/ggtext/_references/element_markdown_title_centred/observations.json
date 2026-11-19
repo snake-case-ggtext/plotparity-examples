@@ -1,0 +1,324 @@
+{
+  "ggtext_grobs": {
+    "probe": "2D_r_grid_grob",
+    "panel_bbox_norm_tl": [0.0668, 0.0478, 0.9914, 0.9351],
+    "box_count": 0,
+    "boxes": [],
+    "extraction_ms": 64
+  },
+  "ggtext_chrome": {
+    "engine": "r",
+    "panels_norm_tl": [
+      [0.0668, 0.0478, 0.9914, 0.9351]
+    ],
+    "components": [
+      {
+        "kind": "plain",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.text.1144",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "15.0",
+            "x_norm": 0.0285,
+            "y_norm": 0.8451,
+            "hjust": 1,
+            "vjust": 0.5,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.text.1144",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "17.5",
+            "x_norm": 0.0285,
+            "y_norm": 0.6455,
+            "hjust": 1,
+            "vjust": 0.5,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.text.1144",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "20.0",
+            "x_norm": 0.0285,
+            "y_norm": 0.4458,
+            "hjust": 1,
+            "vjust": 0.5,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.y.left",
+        "cell_path": "axis-l/axis",
+        "grob": "GRID.text.1144",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "22.5",
+            "x_norm": 0.0285,
+            "y_norm": 0.2462,
+            "hjust": 1,
+            "vjust": 0.5,
+            "width_pt": 19.578,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.1140",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "2.4",
+            "x_norm": 0.1517,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 13.984,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.1140",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "2.8",
+            "x_norm": 0.4207,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 13.984,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.1140",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "3.2",
+            "x_norm": 0.6897,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 13.984,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.text.x.bottom",
+        "cell_path": "axis-b/axis",
+        "grob": "GRID.text.1140",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "3.6",
+            "x_norm": 0.9587,
+            "y_norm": 0.9579,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 13.984,
+            "color": "#4D4D4D",
+            "fontsize_pt": 8.8,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.title.x.bottom",
+        "cell_path": "xlab-b",
+        "grob": "GRID.text.1147",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "wt",
+            "x_norm": 0.5187,
+            "y_norm": 0.9844,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 13.312,
+            "color": "#000000",
+            "fontsize_pt": 11,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      },
+      {
+        "kind": "plain",
+        "role": "axis.title.y.left",
+        "cell_path": "ylab-l",
+        "grob": "GRID.text.1150",
+        "angle_deg": 90,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "mpg",
+            "x_norm": 0.0211,
+            "y_norm": 0.5172,
+            "hjust": 0.5,
+            "vjust": 1,
+            "width_pt": 24.688,
+            "color": "#000000",
+            "fontsize_pt": 11,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 90
+          }
+        ]
+      },
+      {
+        "kind": "rich",
+        "role": "plot.title",
+        "cell_path": "title",
+        "grob": "GRID.gTree.1153",
+        "angle_deg": 0,
+        "rect": {},
+        "text_runs": [
+          {
+            "text": "A",
+            "x_norm": 0.4506,
+            "y_norm": 0.0302,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 9.016,
+            "color": "#000000",
+            "fontsize_pt": 13.2,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          },
+          {
+            "text": "centred",
+            "x_norm": 0.4712,
+            "y_norm": 0.0302,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 57.313,
+            "color": "#000000",
+            "fontsize_pt": 13.2,
+            "fontweight": "bold",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          },
+          {
+            "text": "title",
+            "x_norm": 0.5673,
+            "y_norm": 0.0302,
+            "hjust": 0,
+            "vjust": 0,
+            "width_pt": 25.766,
+            "color": "#000000",
+            "fontsize_pt": 13.2,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "fontfamily": "DejaVu Sans",
+            "alpha": 1,
+            "angle_deg": 0
+          }
+        ]
+      }
+    ],
+    "gtable_cells": ["background", "spacer", "axis-l", "axis-t", "panel", "axis-b", "axis-r", "xlab-t", "xlab-b", "ylab-l", "ylab-r", "guide-box-right", "guide-box-left", "guide-box-bottom", "guide-box-top", "guide-box-inside", "subtitle", "title", "caption"],
+    "extraction_ms": 67
+  }
+}
