@@ -19,19 +19,10 @@ The first passes. The second shows a package with real gaps.
 
 | Path | What it is |
 | --- | --- |
-| [`cases/ggtext/`](cases/ggtext/) | 28 cases for R's ggtext, one Markdown file each: shared data, the R code, and a Python block per package. Stored R renders are in `_references/`. |
-| [`projects/ggtext/`](projects/ggtext/parity.toml) | [plotnine-ggtext](https://github.com/snake-case-ggtext/plotnine-ggtext) with `dev` / `holdout` / `coverage` splits. `plotparity run` runs `dev`; `--split coverage` shows what it lacks (theme elements, `<img>`, R colour names, `~sub~`/`^sup^`). Also has the mutation suite for `plotparity selftest`. |
-| [`projects/ggtext-shanellis/`](projects/ggtext-shanellis/parity.toml) | [Shannon Ellis's ggtext](https://github.com/snake-case-ggtext/ggtext_ShanEllis): 10 of 28 cases match. |
+| [`cases/ggtext/`](cases/ggtext/) | Cases for R's ggtext, one Markdown file each: shared data, the R code, and a Python block per package. Stored R renders are in `_references/`. |
+| [`projects/ggtext/`](projects/ggtext/parity.toml) | [plotnine-ggtext](https://github.com/snake-case-ggtext/plotnine-ggtext) with `dev` / `holdout` / `coverage` splits. `plotparity run` runs `dev`; `--split coverage` shows what it lacks. Also has the mutation suite for `plotparity selftest`. |
+| [`projects/ggtext-shanellis/`](projects/ggtext-shanellis/parity.toml) | [Shannon Ellis's ggtext](https://github.com/snake-case-ggtext/ggtext_ShanEllis), a package with real gaps. |
 
-The gaps found in the second package:
-
-- superscripts and subscripts at 0.7× size instead of R's 0.8×;
-- extra top padding in boxes;
-- box outline drawn in the text colour;
-- R colour names (`red3`, `grey40`) drawn black;
-- no `~sub~` / `^sup^` markdown;
-- a boxed `element_markdown` title centred where R left-aligns it;
-- no `align_widths` on theme elements.
 
 ## Adding a case
 

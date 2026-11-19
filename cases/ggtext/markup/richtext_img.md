@@ -11,7 +11,7 @@ data:
 
 # richtext_img
 
-gridtext feature coverage: inline <img> in rich text. Unmeasured: probes do not record draw_image yet.
+gridtext feature coverage: inline <img> in rich text. Unmeasured: the R probe does not extract images yet.
 
 ```r
 ggplot(df, aes(x, y, label = label)) + geom_richtext() + xlim(0, 1) + ylim(0, 1)
