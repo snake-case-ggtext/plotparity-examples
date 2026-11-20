@@ -28,21 +28,30 @@ footer{margin-top:44px;color:var(--ink-3);font-size:13.5px}
 <body>
 <main>
 <h1>plotparity examples</h1>
-<p class="lede"><a href="https://github.com/snake-case-ggtext/plotparity">plotparity</a> tests a plotnine extension against its ggplot2 original: each test plot is drawn in R and in Python, and every label, shape and colour is compared. These are its reports for three packages.</p>
+<p class="lede"><a href="https://github.com/snake-case-ggtext/plotparity">plotparity</a> tests a plotnine extension against its ggplot2 original: each test plot is drawn in R and in Python, and every label, shape and colour is compared. These are live reports for five packages, including multi-round clean-room port progressions.</p>
 
 <h2>ggtext</h2>
 <a class="card" href="ggtext.html"><b>plotnine-ggtext</b>
 <p>Matches R on every feature it implements. The cases that differ use features it doesn't have yet: theme elements, <code>&lt;img&gt;</code>, R colour names, <code>~sub~</code>/<code>^sup^</code>.</p></a>
 <a class="card" href="ggtext-shanellis.html"><b>Shannon Ellis's ggtext</b>
-<p>A second Python ggtext with real gaps: box padding, superscript size, title alignment, theme options.</p></a>
+<p><code>ggtext_ShanEllis@9d845be</code> (16/34 cases match R): highlights real gaps in box padding, superscript sizing, R colour names, and theme element options.</p></a>
 
 <h2>ggridges</h2>
 <a class="card" href="ridgenine.html"><b>ridgenine</b>
 <p>Ridgeline plots for plotnine. Each case has an <code>_r_defaults</code> twin that passes ggridges' defaults explicitly, separating different defaults from different behaviour.</p></a>
 
+<h2>ggbeeswarm</h2>
+<a class="card" href="ggbeeswarm.html"><b>plotnine-ggbeeswarm (Round 0 → Round 7 + Holdout)</b>
+<p>Clean-room port of <code>ggbeeswarm</code> verified iteratively across 8 dev rounds (5/8 → 8/8 match) plus an unseen holdout split (3/4 match). Click any round and step with <kbd>←</kbd><kbd>→</kbd> to watch layouts converge.</p></a>
+
+<h2>ggrepel</h2>
+<a class="card" href="ggrepel.html"><b>plotnine-ggrepel (Round 0 → Round 2 + Holdouts)</b>
+<p>Clean-room port of <code>ggrepel</code> (6/6 dev + 4/4 unseen holdout = 10/10 match). Step through Round 0 (label overlaps) → Round 1 (tight dot spacing caught by visual review) → Round 2 (clean R-matched dot clearance).</p></a>
+
 <h2>Reading a report</h2>
 <ul>
 <li>Pick a case on the left; its R and Python renders are compared on the right, with each finding outlined on both.</li>
+<li>On multi-round reports, click any round in the top bar (or any cell in Overview) and press <kbd>←</kbd><kbd>→</kbd> to step through rounds in place.</li>
 <li>Views: side by side <kbd>s</kbd>, blink <kbd>b</kbd>, swipe <kbd>w</kbd>, difference <kbd>d</kbd>. Hold <kbd>space</kbd> to flip.</li>
 <li>Findings list R's value and Python's, and how far apart they are (<code>Δ 3.09 &gt; 2</code>). <b>Settings</b> shows every check's tolerance.</li>
 <li><b>OK</b> marks a finding as reviewed; marks stay in your browser only.</li>

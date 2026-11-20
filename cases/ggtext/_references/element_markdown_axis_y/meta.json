@@ -1,6 +1,6 @@
 {
   "case": "element_markdown_axis_y",
-  "input_hash": "2ce31a7962294f85d34fd0ecd43c1e8fc9f3c7a78dff828415d5c69a34dc0f63",
+  "input_hash": "1090041e4cdf8934ec8cc3dea73aa9fe4c1fd7b953fcb28f47ca614f8c5ba4a7",
   "font_hashes": {
     "DejaVuSans.ttf": "3fdf69cabf06049e",
     "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
@@ -14,7 +14,7 @@
       "ggplot2": "3.5.0",
       "ggtext": "0.1.2",
       "ragg": "1.2.7",
-      "systemfonts": "1.2.3",
+      "systemfonts": "1.0.5",
       "jsonlite": "1.8.8"
     }
   },

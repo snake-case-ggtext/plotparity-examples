@@ -1,6 +1,6 @@
 {
   "case": "richtext_inward_outward",
-  "input_hash": "fc8f0ca8588da5ce4c66bd5b6b7a9ed542088e8a50d9e7679fb01e51c06cd317",
+  "input_hash": "83822631fd999e7a136fbf49143c363c54d4bb33003a43ec28db99a7131a3c62",
   "font_hashes": {
     "DejaVuSans.ttf": "3fdf69cabf06049e",
     "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
@@ -14,7 +14,7 @@
       "ggplot2": "3.5.0",
       "ggtext": "0.1.2",
       "ragg": "1.2.7",
-      "systemfonts": "1.2.3",
+      "systemfonts": "1.0.5",
       "jsonlite": "1.8.8"
     }
   },

@@ -1,6 +1,6 @@
 {
   "case": "textbox_rotated_alignments",
-  "input_hash": "838ac78cc915f20dfb4bb91b000a3b8e097868fffdab193e4b60b96e25204279",
+  "input_hash": "8a10d95f81c9176f5c6534a43172f84f283409474198863165e62c6e7c0f1412",
   "font_hashes": {
     "DejaVuSans.ttf": "3fdf69cabf06049e",
     "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
@@ -14,7 +14,7 @@
       "ggplot2": "3.5.0",
       "ggtext": "0.1.2",
       "ragg": "1.2.7",
-      "systemfonts": "1.2.3",
+      "systemfonts": "1.0.5",
       "jsonlite": "1.8.8"
     }
   },

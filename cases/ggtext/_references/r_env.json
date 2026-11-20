@@ -5,7 +5,7 @@
     "ggplot2": "3.5.0",
     "ggtext": "0.1.2",
     "ragg": "1.2.7",
-    "systemfonts": "1.2.3",
+    "systemfonts": "1.0.5",
     "jsonlite": "1.8.8"
   }
 }

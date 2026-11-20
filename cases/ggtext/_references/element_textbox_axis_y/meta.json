@@ -1,6 +1,6 @@
 {
   "case": "element_textbox_axis_y",
-  "input_hash": "80e66de00d531f20fab5f30ddc6bd997a945c34a91a39744ab745c2e5b089fbe",
+  "input_hash": "04d9991e6cd37d6f17dc3ef556e103f03fcfa0087ca2f4a6a09b6279d3a4150b",
   "font_hashes": {
     "DejaVuSans.ttf": "3fdf69cabf06049e",
     "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
@@ -14,7 +14,7 @@
       "ggplot2": "3.5.0",
       "ggtext": "0.1.2",
       "ragg": "1.2.7",
-      "systemfonts": "1.2.3",
+      "systemfonts": "1.0.5",
       "jsonlite": "1.8.8"
     }
   },

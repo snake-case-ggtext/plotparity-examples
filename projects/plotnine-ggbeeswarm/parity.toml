@@ -1,5 +1,5 @@
 cases = "../../cases/ggbeeswarm"
-from = "../../../sandbox/plotnine-ggbeeswarm"
+from = "git+https://github.com/snake-case-ggtext/plotnine-ggbeeswarm@aee0d955a8e7e9ef917666a168b39f51f7b5626f"
 package = "plotnine_ggbeeswarm"
 clean_room = true
 api = ["geom_beeswarm", "geom_quasirandom", "position_beeswarm", "position_quasirandom"]

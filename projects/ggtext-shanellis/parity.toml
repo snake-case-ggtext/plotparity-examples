@@ -1,6 +1,6 @@
 # Shannon Ellis's `ggtext` package tested against the ggtext cases. Run from this directory: `plotparity run`.
 cases = "../../cases/ggtext"
-from = "git+https://github.com/snake-case-ggtext/ggtext_ShanEllis@a1b9aa9dbb5d6100e61969e93d6662a3eb6bd0d5"
+from = "git+https://github.com/snake-case-ggtext/ggtext_ShanEllis@9d845be9a32256b85fcc0e404b799f56f1611f43"
 api = ["geom_richtext", "geom_textbox", "element_markdown", "element_textbox", "element_textbox_simple"]
 
 [splits]

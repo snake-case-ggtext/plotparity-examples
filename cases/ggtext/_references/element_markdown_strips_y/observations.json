@@ -4,7 +4,7 @@
     "panel_bbox_norm_tl": [0.0668, 0.0114, 0.9652, 0.3117],
     "box_count": 0,
     "boxes": [],
-    "extraction_ms": 122
+    "extraction_ms": 180
   },
   "ggtext_chrome": {
     "engine": "r",
@@ -541,6 +541,6 @@
       }
     ],
     "gtable_cells": ["background", "panel-1-1", "panel-2-1", "panel-3-1", "axis-t-1", "axis-b-1", "axis-l-1", "axis-l-2", "axis-l-3", "axis-r-1", "axis-r-2", "axis-r-3", "strip-r-1", "strip-r-2", "strip-r-3", "xlab-t", "xlab-b", "ylab-l", "ylab-r", "guide-box-right", "guide-box-left", "guide-box-bottom", "guide-box-top", "guide-box-inside", "subtitle", "title", "caption"],
-    "extraction_ms": 128
+    "extraction_ms": 136
   }
 }

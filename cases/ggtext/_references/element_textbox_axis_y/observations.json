@@ -4,7 +4,7 @@
     "panel_bbox_norm_tl": [0.0749, 0.0114, 0.9914, 0.9351],
     "box_count": 0,
     "boxes": [],
-    "extraction_ms": 86
+    "extraction_ms": 78
   },
   "ggtext_chrome": {
     "engine": "r",
@@ -250,6 +250,7 @@
           "is_rounded": false,
           "fill": "#FFF8DC",
           "col": "none",
+          "alpha": 1,
           "lty": "0",
           "lwd": 1.4226,
           "bbox_norm_tl": [0.0086, 0.0171, 0.0523, 0.9351]

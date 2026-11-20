@@ -579,7 +579,7 @@
         ]
       }
     ],
-    "extraction_ms": 104
+    "extraction_ms": 113
   },
   "ggtext_chrome": {
     "engine": "r",
@@ -600,6 +600,7 @@
           "is_rounded": true,
           "fill": "#FFF8DC",
           "col": "#000000",
+          "alpha": 1,
           "lty": null,
           "lwd": 0.7113,
           "bbox_norm_tl": [0.1088, 0.0534, 0.4787, 0.1796]
@@ -905,6 +906,7 @@
           "is_rounded": true,
           "fill": "#FFFFFF",
           "col": "#0000FF",
+          "alpha": 1,
           "lty": null,
           "lwd": 0.7113,
           "bbox_norm_tl": [0.6132, 0.3893, 0.7284, 0.7588]
@@ -1499,6 +1501,6 @@
       }
     ],
     "gtable_cells": ["background", "spacer", "axis-l", "axis-t", "panel", "axis-b", "axis-r", "xlab-t", "xlab-b", "ylab-l", "ylab-r", "guide-box-right", "guide-box-left", "guide-box-bottom", "guide-box-top", "guide-box-inside", "subtitle", "title", "caption"],
-    "extraction_ms": 115
+    "extraction_ms": 124
   }
 }
