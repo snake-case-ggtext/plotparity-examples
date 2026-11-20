@@ -1,0 +1,8 @@
+cases = "../../cases/ggbeeswarm"
+from = "../../../sandbox/plotnine-ggbeeswarm"
+package = "plotnine_ggbeeswarm"
+api = ["geom_beeswarm", "geom_quasirandom", "position_beeswarm", "position_quasirandom"]
+
+[splits]
+dev = ["beeswarm/*", "quasirandom/*", "layout/*"]
+holdout = ["holdout/*"]

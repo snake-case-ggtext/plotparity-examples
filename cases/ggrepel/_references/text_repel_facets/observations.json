@@ -1,0 +1,182 @@
+{
+  "ggrepel": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.066764, 0.046353, 0.52482, 0.935097],
+        "points": [
+          {
+            "x_norm": 0.087585,
+            "y_norm": 0.894699,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.108405,
+            "y_norm": 0.867768,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.503999,
+            "y_norm": 0.221409,
+            "size_pt": 3.91
+          }
+        ]
+      },
+      {
+        "panel_index": 2,
+        "bbox_norm_tl": [0.533382, 0.046353, 0.991438, 0.935097],
+        "points": [
+          {
+            "x_norm": 0.554203,
+            "y_norm": 0.558054,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.579188,
+            "y_norm": 0.531122,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.970618,
+            "y_norm": 0.08675,
+            "size_pt": 3.91
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "panel": 1,
+        "idx": "1",
+        "text": "P1",
+        "x_norm": 0.083158,
+        "y_norm": 0.912745,
+        "bbox_norm_tl": [0.072477, 0.904405, 0.093839, 0.921085],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.085062,
+          "y0_norm": 0.900656,
+          "x1_norm": 0.086829,
+          "y1_norm": 0.896482,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "2",
+        "text": "P2",
+        "x_norm": 0.117677,
+        "y_norm": 0.849694,
+        "bbox_norm_tl": [0.106996, 0.841354, 0.128358, 0.858034],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.111332,
+          "y0_norm": 0.861783,
+          "x1_norm": 0.109224,
+          "y1_norm": 0.866094,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "3",
+        "text": "P3",
+        "x_norm": 0.50847,
+        "y_norm": 0.20304,
+        "bbox_norm_tl": [0.497789, 0.1947, 0.519151, 0.21138],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.506621,
+          "y0_norm": 0.21513,
+          "x1_norm": 0.504748,
+          "y1_norm": 0.219615,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 2,
+        "idx": "1",
+        "text": "Q1",
+        "x_norm": 0.55136,
+        "y_norm": 0.576105,
+        "bbox_norm_tl": [0.539092, 0.567765, 0.563628, 0.584445],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.552116,
+          "y0_norm": 0.564016,
+          "x1_norm": 0.553534,
+          "y1_norm": 0.559963,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 2,
+        "idx": "2",
+        "text": "Q2",
+        "x_norm": 0.588518,
+        "y_norm": 0.513127,
+        "bbox_norm_tl": [0.57625, 0.504787, 0.600786, 0.521467],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.582081,
+          "y0_norm": 0.525216,
+          "x1_norm": 0.580007,
+          "y1_norm": 0.52945,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 2,
+        "idx": "3",
+        "text": "Q3",
+        "x_norm": 0.973488,
+        "y_norm": 0.068553,
+        "bbox_norm_tl": [0.96122, 0.060213, 0.985756, 0.076893],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.972739,
+          "y0_norm": 0.080643,
+          "x1_norm": 0.971282,
+          "y1_norm": 0.084837,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      }
+    ]
+  }
+}

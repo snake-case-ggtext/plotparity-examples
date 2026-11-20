@@ -1,0 +1,149 @@
+{
+  "ggrepel": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.058024, 0.011416, 0.904174, 0.935097],
+        "points": [
+          {
+            "x_norm": 0.25033,
+            "y_norm": 0.893111,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.25033,
+            "y_norm": 0.852741,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.25033,
+            "y_norm": 0.81237,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.558022,
+            "y_norm": 0.085698,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.558022,
+            "y_norm": 0.053401,
+            "size_pt": 3.91
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "panel": 1,
+        "idx": "1",
+        "text": "Item 1",
+        "x_norm": 0.342638,
+        "y_norm": 0.89311,
+        "bbox_norm_tl": [0.314806, 0.88477, 0.37047, 0.90145],
+        "color_hex": "#1b9e77",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.311993,
+          "y0_norm": 0.89311,
+          "x1_norm": 0.252326,
+          "y1_norm": 0.893111,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "2",
+        "text": "Item 2",
+        "x_norm": 0.342638,
+        "y_norm": 0.852741,
+        "bbox_norm_tl": [0.314806, 0.844401, 0.37047, 0.861081],
+        "color_hex": "#1b9e77",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.311993,
+          "y0_norm": 0.852741,
+          "x1_norm": 0.252326,
+          "y1_norm": 0.852741,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "3",
+        "text": "Item 3",
+        "x_norm": 0.342638,
+        "y_norm": 0.81237,
+        "bbox_norm_tl": [0.314806, 0.80403, 0.37047, 0.82071],
+        "color_hex": "#1b9e77",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.311993,
+          "y0_norm": 0.81237,
+          "x1_norm": 0.252326,
+          "y1_norm": 0.81237,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "4",
+        "text": "Item 4",
+        "x_norm": 0.650329,
+        "y_norm": 0.085697,
+        "bbox_norm_tl": [0.622497, 0.077357, 0.678161, 0.094037],
+        "color_hex": "#d95f02",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.619684,
+          "y0_norm": 0.085697,
+          "x1_norm": 0.560017,
+          "y1_norm": 0.085698,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "5",
+        "text": "Item 5",
+        "x_norm": 0.650329,
+        "y_norm": 0.053401,
+        "bbox_norm_tl": [0.622497, 0.045061, 0.678161, 0.061741],
+        "color_hex": "#d95f02",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.619684,
+          "y0_norm": 0.053401,
+          "x1_norm": 0.560017,
+          "y1_norm": 0.053401,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1220 @@
+{
+  "ggbeeswarm": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "x_range": [0.4, 3.6],
+        "y_range": [-2.85177, 2.24937],
+        "x_labels": ["A", "B", "C"],
+        "y_labels": [],
+        "x_is_discrete": true,
+        "y_is_discrete": false,
+        "bbox_norm_tl": [0.049869, 0.011416, 0.991438, 0.935097],
+        "points": [
+          {
+            "x": 0.86875,
+            "y": -0.106006,
+            "x_norm": 0.187794,
+            "y_norm": 0.437912,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.90625,
+            "y": -0.206409,
+            "x_norm": 0.198828,
+            "y_norm": 0.456092,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.94375,
+            "y": -0.106006,
+            "x_norm": 0.209862,
+            "y_norm": 0.437912,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.94375,
+            "y": 0.697215,
+            "x_norm": 0.209862,
+            "y_norm": 0.29247,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": -0.106006,
+            "x_norm": 0.23193,
+            "y_norm": 0.437912,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.94375,
+            "y": -1.511643,
+            "x_norm": 0.209862,
+            "y_norm": 0.692435,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.94375,
+            "y": 0.295604,
+            "x_norm": 0.209862,
+            "y_norm": 0.365191,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.94375,
+            "y": -0.306812,
+            "x_norm": 0.209862,
+            "y_norm": 0.474272,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": -0.206409,
+            "x_norm": 0.220896,
+            "y_norm": 0.456092,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.94375,
+            "y": 0.094799,
+            "x_norm": 0.209862,
+            "y_norm": 0.401551,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": 0.195202,
+            "x_norm": 0.220896,
+            "y_norm": 0.383371,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": 1.199228,
+            "x_norm": 0.220896,
+            "y_norm": 0.201568,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": 0.697215,
+            "x_norm": 0.23193,
+            "y_norm": 0.29247,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": 0.094799,
+            "x_norm": 0.23193,
+            "y_norm": 0.401551,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": -0.708422,
+            "x_norm": 0.23193,
+            "y_norm": 0.546993,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": -1.00963,
+            "x_norm": 0.220896,
+            "y_norm": 0.601534,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": 0.295604,
+            "x_norm": 0.23193,
+            "y_norm": 0.365191,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": 1.299631,
+            "x_norm": 0.23193,
+            "y_norm": 0.183388,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": -0.005604,
+            "x_norm": 0.220896,
+            "y_norm": 0.419732,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.09375,
+            "y": -0.106006,
+            "x_norm": 0.253998,
+            "y_norm": 0.437912,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.94375,
+            "y": 0.49641,
+            "x_norm": 0.209862,
+            "y_norm": 0.32883,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": -1.411241,
+            "x_norm": 0.220896,
+            "y_norm": 0.674255,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": -0.306812,
+            "x_norm": 0.23193,
+            "y_norm": 0.474272,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": 0.49641,
+            "x_norm": 0.23193,
+            "y_norm": 0.32883,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.94375,
+            "y": 0.89802,
+            "x_norm": 0.209862,
+            "y_norm": 0.256109,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.05625,
+            "y": -0.206409,
+            "x_norm": 0.242964,
+            "y_norm": 0.456092,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": 0.396007,
+            "x_norm": 0.220896,
+            "y_norm": 0.34701,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.09375,
+            "y": 0.295604,
+            "x_norm": 0.253998,
+            "y_norm": 0.365191,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": 0.797618,
+            "x_norm": 0.220896,
+            "y_norm": 0.274289,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": -1.110033,
+            "x_norm": 0.23193,
+            "y_norm": 0.619714,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": 0.596812,
+            "x_norm": 0.220896,
+            "y_norm": 0.31065,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": -1.511643,
+            "x_norm": 0.23193,
+            "y_norm": 0.692435,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": -2.616073,
+            "x_norm": 0.220896,
+            "y_norm": 0.892418,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": -0.60802,
+            "x_norm": 0.220896,
+            "y_norm": 0.528813,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": -0.909228,
+            "x_norm": 0.23193,
+            "y_norm": 0.583354,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.01875,
+            "y": 0.89802,
+            "x_norm": 0.23193,
+            "y_norm": 0.256109,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.09375,
+            "y": 0.697215,
+            "x_norm": 0.253998,
+            "y_norm": 0.29247,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 0.98125,
+            "y": -1.210435,
+            "x_norm": 0.220896,
+            "y_norm": 0.637895,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.05625,
+            "y": 0.797618,
+            "x_norm": 0.242964,
+            "y_norm": 0.274289,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.05625,
+            "y": -1.00963,
+            "x_norm": 0.242964,
+            "y_norm": 0.601534,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.83125,
+            "y": 1.199228,
+            "x_norm": 0.471001,
+            "y_norm": 0.201568,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.94375,
+            "y": 1.098826,
+            "x_norm": 0.504103,
+            "y_norm": 0.219749,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.90625,
+            "y": 1.199228,
+            "x_norm": 0.493069,
+            "y_norm": 0.201568,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.79375,
+            "y": 1.500436,
+            "x_norm": 0.459967,
+            "y_norm": 0.147028,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.75625,
+            "y": 1.400034,
+            "x_norm": 0.448933,
+            "y_norm": 0.165208,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.94375,
+            "y": 1.299631,
+            "x_norm": 0.504103,
+            "y_norm": 0.183388,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.83125,
+            "y": 1.400034,
+            "x_norm": 0.471001,
+            "y_norm": 0.165208,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.90625,
+            "y": 1.400034,
+            "x_norm": 0.493069,
+            "y_norm": 0.165208,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.75625,
+            "y": 0.998423,
+            "x_norm": 0.448933,
+            "y_norm": 0.237929,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.83125,
+            "y": 0.998423,
+            "x_norm": 0.471001,
+            "y_norm": 0.237929,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.90625,
+            "y": 0.998423,
+            "x_norm": 0.493069,
+            "y_norm": 0.237929,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.98125,
+            "y": 1.400034,
+            "x_norm": 0.515137,
+            "y_norm": 0.165208,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.01875,
+            "y": 1.098826,
+            "x_norm": 0.526171,
+            "y_norm": 0.219749,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.98125,
+            "y": 2.002449,
+            "x_norm": 0.515137,
+            "y_norm": 0.056126,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.94375,
+            "y": 0.89802,
+            "x_norm": 0.504103,
+            "y_norm": 0.256109,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.98125,
+            "y": 0.797618,
+            "x_norm": 0.515137,
+            "y_norm": 0.274289,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.86875,
+            "y": 1.500436,
+            "x_norm": 0.482035,
+            "y_norm": 0.147028,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.94375,
+            "y": 1.701242,
+            "x_norm": 0.504103,
+            "y_norm": 0.110667,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.05625,
+            "y": 1.400034,
+            "x_norm": 0.537205,
+            "y_norm": 0.165208,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.94375,
+            "y": 1.500436,
+            "x_norm": 0.504103,
+            "y_norm": 0.147028,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.01875,
+            "y": 1.701242,
+            "x_norm": 0.526171,
+            "y_norm": 0.110667,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.98125,
+            "y": 1.199228,
+            "x_norm": 0.515137,
+            "y_norm": 0.201568,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.94375,
+            "y": 0.697215,
+            "x_norm": 0.504103,
+            "y_norm": 0.29247,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 1.98125,
+            "y": 0.998423,
+            "x_norm": 0.515137,
+            "y_norm": 0.237929,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.01875,
+            "y": 1.500436,
+            "x_norm": 0.526171,
+            "y_norm": 0.147028,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.01875,
+            "y": 0.697215,
+            "x_norm": 0.526171,
+            "y_norm": 0.29247,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.05625,
+            "y": 1.199228,
+            "x_norm": 0.537205,
+            "y_norm": 0.201568,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.01875,
+            "y": 1.299631,
+            "x_norm": 0.526171,
+            "y_norm": 0.183388,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.09375,
+            "y": 1.098826,
+            "x_norm": 0.548239,
+            "y_norm": 0.219749,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.09375,
+            "y": 1.500436,
+            "x_norm": 0.548239,
+            "y_norm": 0.147028,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.13125,
+            "y": 1.400034,
+            "x_norm": 0.559273,
+            "y_norm": 0.165208,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.05625,
+            "y": 2.002449,
+            "x_norm": 0.537205,
+            "y_norm": 0.056126,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.20625,
+            "y": 1.400034,
+            "x_norm": 0.581341,
+            "y_norm": 0.165208,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.05625,
+            "y": 0.998423,
+            "x_norm": 0.537205,
+            "y_norm": 0.237929,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.13125,
+            "y": 0.998423,
+            "x_norm": 0.559273,
+            "y_norm": 0.237929,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.01875,
+            "y": 0.89802,
+            "x_norm": 0.526171,
+            "y_norm": 0.256109,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.16875,
+            "y": 1.500436,
+            "x_norm": 0.570307,
+            "y_norm": 0.147028,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.20625,
+            "y": 0.998423,
+            "x_norm": 0.581341,
+            "y_norm": 0.237929,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.13125,
+            "y": 1.199228,
+            "x_norm": 0.559273,
+            "y_norm": 0.201568,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.24375,
+            "y": 1.500436,
+            "x_norm": 0.592375,
+            "y_norm": 0.147028,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.94375,
+            "y": 1.098826,
+            "x_norm": 0.798343,
+            "y_norm": 0.219749,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.98125,
+            "y": 1.400034,
+            "x_norm": 0.809377,
+            "y_norm": 0.165208,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.01875,
+            "y": -0.708422,
+            "x_norm": 0.820411,
+            "y_norm": 0.546993,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.94375,
+            "y": 1.902047,
+            "x_norm": 0.798343,
+            "y_norm": 0.074307,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.90625,
+            "y": -0.808825,
+            "x_norm": 0.787309,
+            "y_norm": 0.565174,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.01875,
+            "y": 1.098826,
+            "x_norm": 0.820411,
+            "y_norm": 0.219749,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.90625,
+            "y": 0.998423,
+            "x_norm": 0.787309,
+            "y_norm": 0.237929,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.98125,
+            "y": -0.808825,
+            "x_norm": 0.809377,
+            "y_norm": 0.565174,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.98125,
+            "y": 0.396007,
+            "x_norm": 0.809377,
+            "y_norm": 0.34701,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.98125,
+            "y": 0.998423,
+            "x_norm": 0.809377,
+            "y_norm": 0.237929,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.75625,
+            "y": -1.00963,
+            "x_norm": 0.743173,
+            "y_norm": 0.601534,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.94375,
+            "y": 0.697215,
+            "x_norm": 0.798343,
+            "y_norm": 0.29247,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.83125,
+            "y": -1.00963,
+            "x_norm": 0.765241,
+            "y_norm": 0.601534,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.90625,
+            "y": -1.00963,
+            "x_norm": 0.787309,
+            "y_norm": 0.601534,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.98125,
+            "y": -0.407214,
+            "x_norm": 0.809377,
+            "y_norm": 0.492453,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.98125,
+            "y": -1.00963,
+            "x_norm": 0.809377,
+            "y_norm": 0.601534,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.01875,
+            "y": 1.299631,
+            "x_norm": 0.820411,
+            "y_norm": 0.183388,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.98125,
+            "y": 1.600839,
+            "x_norm": 0.809377,
+            "y_norm": 0.128847,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.94375,
+            "y": -1.110033,
+            "x_norm": 0.798343,
+            "y_norm": 0.619714,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.98125,
+            "y": -1.210435,
+            "x_norm": 0.809377,
+            "y_norm": 0.637895,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.01875,
+            "y": 0.697215,
+            "x_norm": 0.820411,
+            "y_norm": 0.29247,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.05625,
+            "y": 0.998423,
+            "x_norm": 0.831445,
+            "y_norm": 0.237929,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.86875,
+            "y": -0.909228,
+            "x_norm": 0.776275,
+            "y_norm": 0.583354,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.09375,
+            "y": 1.098826,
+            "x_norm": 0.842479,
+            "y_norm": 0.219749,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.98125,
+            "y": 1.199228,
+            "x_norm": 0.809377,
+            "y_norm": 0.201568,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.01875,
+            "y": -1.110033,
+            "x_norm": 0.820411,
+            "y_norm": 0.619714,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.05625,
+            "y": 1.199228,
+            "x_norm": 0.831445,
+            "y_norm": 0.201568,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 2.94375,
+            "y": -0.909228,
+            "x_norm": 0.798343,
+            "y_norm": 0.583354,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.01875,
+            "y": -0.909228,
+            "x_norm": 0.820411,
+            "y_norm": 0.583354,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.01875,
+            "y": -1.310838,
+            "x_norm": 0.820411,
+            "y_norm": 0.656075,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.09375,
+            "y": -1.110033,
+            "x_norm": 0.842479,
+            "y_norm": 0.619714,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.13125,
+            "y": 0.998423,
+            "x_norm": 0.853513,
+            "y_norm": 0.237929,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.05625,
+            "y": -0.808825,
+            "x_norm": 0.831445,
+            "y_norm": 0.565174,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.05625,
+            "y": 1.400034,
+            "x_norm": 0.831445,
+            "y_norm": 0.165208,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.05625,
+            "y": -1.210435,
+            "x_norm": 0.831445,
+            "y_norm": 0.637895,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.01875,
+            "y": 1.902047,
+            "x_norm": 0.820411,
+            "y_norm": 0.074307,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.05625,
+            "y": -1.00963,
+            "x_norm": 0.831445,
+            "y_norm": 0.601534,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.09375,
+            "y": -0.909228,
+            "x_norm": 0.842479,
+            "y_norm": 0.583354,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.13125,
+            "y": -1.00963,
+            "x_norm": 0.853513,
+            "y_norm": 0.601534,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          },
+          {
+            "x": 3.20625,
+            "y": -1.00963,
+            "x_norm": 0.875581,
+            "y_norm": 0.601534,
+            "color_hex": "#3366cc",
+            "alpha": 0.698,
+            "size_pt": 7.111,
+            "paint_index": 1
+          }
+        ],
+        "shapes": [],
+        "rasters": []
+      }
+    ]
+  }
+}

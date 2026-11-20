@@ -1,0 +1,109 @@
+{
+  "ggrepel": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.058024, 0.011416, 0.991438, 0.935097],
+        "points": [
+          {
+            "x_norm": 0.100451,
+            "y_norm": 0.893111,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.140859,
+            "y_norm": 0.853125,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.181267,
+            "y_norm": 0.813139,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.908603,
+            "y_norm": 0.093387,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.94901,
+            "y_norm": 0.053401,
+            "size_pt": 3.91
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "panel": 1,
+        "idx": "1",
+        "text": "A1",
+        "x_norm": 0.118169,
+        "y_norm": 0.875541,
+        "bbox_norm_tl": [0.106792, 0.867201, 0.129546, 0.883881],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "2",
+        "text": "A2",
+        "x_norm": 0.158906,
+        "y_norm": 0.835238,
+        "bbox_norm_tl": [0.147529, 0.826898, 0.170283, 0.843578],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "3",
+        "text": "A3",
+        "x_norm": 0.199323,
+        "y_norm": 0.795426,
+        "bbox_norm_tl": [0.187946, 0.787086, 0.2107, 0.803766],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "4",
+        "text": "B1",
+        "x_norm": 0.926376,
+        "y_norm": 0.075766,
+        "bbox_norm_tl": [0.914987, 0.067426, 0.937765, 0.084106],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "5",
+        "text": "B2",
+        "x_norm": 0.966907,
+        "y_norm": 0.035851,
+        "bbox_norm_tl": [0.955518, 0.027511, 0.978296, 0.044191],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      }
+    ]
+  }
+}

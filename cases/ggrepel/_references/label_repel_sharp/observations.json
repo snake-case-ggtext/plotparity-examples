@@ -1,0 +1,158 @@
+{
+  "ggrepel": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.058024, 0.011416, 0.991438, 0.935097],
+        "points": [
+          {
+            "x_norm": 0.100451,
+            "y_norm": 0.893111,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.140859,
+            "y_norm": 0.833838,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.908603,
+            "y_norm": 0.102796,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.94901,
+            "y_norm": 0.053401,
+            "size_pt": 3.91
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "panel": 1,
+        "idx": "1",
+        "text": "Sharp A",
+        "x_norm": 0.152033,
+        "y_norm": 0.911757,
+        "bbox_norm_tl": [0.113801, 0.903417, 0.190265, 0.920097],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "bold",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "rect": {
+          "bbox_norm_tl": [0.108175, 0.895917, 0.19589, 0.927597],
+          "is_rounded": false,
+          "facecolor_hex": "#e0f2fe",
+          "face_alpha": 1,
+          "edgecolor_hex": "#000000",
+          "edge_alpha": 1,
+          "linewidth_pt": 0.533
+        },
+        "segment": {
+          "x0_norm": 0.108175,
+          "y0_norm": 0.902317,
+          "x1_norm": 0.101792,
+          "y1_norm": 0.894709,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "2",
+        "text": "Sharp B",
+        "x_norm": 0.115137,
+        "y_norm": 0.859227,
+        "bbox_norm_tl": [0.077002, 0.850887, 0.153272, 0.867567],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "bold",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "rect": {
+          "bbox_norm_tl": [0.071378, 0.843388, 0.158897, 0.875067],
+          "is_rounded": false,
+          "facecolor_hex": "#e0f2fe",
+          "face_alpha": 1,
+          "edgecolor_hex": "#000000",
+          "edge_alpha": 1,
+          "linewidth_pt": 0.533
+        },
+        "segment": {
+          "x0_norm": 0.131823,
+          "y0_norm": 0.843388,
+          "x1_norm": 0.139425,
+          "y1_norm": 0.835353,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "3",
+        "text": "Sharp C",
+        "x_norm": 0.942298,
+        "y_norm": 0.081405,
+        "bbox_norm_tl": [0.904407, 0.073065, 0.980189, 0.089745],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "bold",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "rect": {
+          "bbox_norm_tl": [0.898782, 0.065566, 0.985813, 0.097245],
+          "is_rounded": false,
+          "facecolor_hex": "#e0f2fe",
+          "face_alpha": 1,
+          "edgecolor_hex": "#000000",
+          "edge_alpha": 1,
+          "linewidth_pt": 0.533
+        },
+        "segment": {
+          "x0_norm": 0.914136,
+          "y0_norm": 0.097245,
+          "x1_norm": 0.910076,
+          "y1_norm": 0.101318,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "4",
+        "text": "Sharp D",
+        "x_norm": 0.895017,
+        "y_norm": 0.034755,
+        "bbox_norm_tl": [0.856296, 0.026415, 0.933738, 0.043095],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "bold",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "rect": {
+          "bbox_norm_tl": [0.850672, 0.018916, 0.939363, 0.050595],
+          "is_rounded": false,
+          "facecolor_hex": "#e0f2fe",
+          "face_alpha": 1,
+          "edgecolor_hex": "#000000",
+          "edge_alpha": 1,
+          "linewidth_pt": 0.533
+        },
+        "segment": {
+          "x0_norm": 0.939363,
+          "y0_norm": 0.043071,
+          "x1_norm": 0.947586,
+          "y1_norm": 0.051876,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      }
+    ]
+  }
+}

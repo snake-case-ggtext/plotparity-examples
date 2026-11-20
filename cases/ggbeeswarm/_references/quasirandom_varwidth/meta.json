@@ -1,0 +1,25 @@
+{
+  "case": "quasirandom_varwidth",
+  "input_hash": "2ae7b5f0a44e08b45d49ea201e8e6abb78f99fe5621e6e5bea715b07e267b822",
+  "font_hashes": {
+    "DejaVuSans.ttf": "3fdf69cabf06049e",
+    "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
+    "DejaVuSans-Oblique.ttf": "ccdf74b350f11fd3",
+    "DejaVuSans-BoldOblique.ttf": "6edf0283160186af"
+  },
+  "r_env": {
+    "r_version": "R version 4.3.2 (2023-10-31)",
+    "platform": "aarch64-apple-darwin20",
+    "packages": {
+      "ggplot2": "3.5.2",
+      "ggbeeswarm": "0.7.2",
+      "ragg": "1.2.7",
+      "systemfonts": "1.2.3",
+      "jsonlite": "1.8.8"
+    }
+  },
+  "adapter": [
+    "ggbeeswarm",
+    "0.1.0"
+  ]
+}

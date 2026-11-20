@@ -1,0 +1,9 @@
+adapter = "ggrepel"
+
+[reference]
+packages = ["ggplot2", "ggrepel"]
+
+[render]
+width_px = 640
+height_px = 480
+dpi = 72

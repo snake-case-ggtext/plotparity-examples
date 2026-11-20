@@ -1,0 +1,185 @@
+{
+  "ggrepel": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.058024, 0.011416, 0.991438, 0.935097],
+        "points": [
+          {
+            "x_norm": 0.100451,
+            "y_norm": 0.893111,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.117009,
+            "y_norm": 0.860815,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.133566,
+            "y_norm": 0.828518,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.150123,
+            "y_norm": 0.876963,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.514383,
+            "y_norm": 0.085698,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.535079,
+            "y_norm": 0.053401,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.555776,
+            "y_norm": 0.101846,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.928314,
+            "y_norm": 0.570146,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.94901,
+            "y_norm": 0.537849,
+            "size_pt": 3.91
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "panel": 1,
+        "idx": "1",
+        "text": "Alpha",
+        "x_norm": 0.088321,
+        "y_norm": 0.910839,
+        "bbox_norm_tl": [0.063821, 0.902499, 0.112821, 0.919179],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "2",
+        "text": "Beta",
+        "x_norm": 0.098951,
+        "y_norm": 0.842963,
+        "bbox_norm_tl": [0.079078, 0.834623, 0.118824, 0.851303],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "3",
+        "text": "Gamma",
+        "x_norm": 0.151447,
+        "y_norm": 0.810695,
+        "bbox_norm_tl": [0.117402, 0.802355, 0.185492, 0.819035],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "4",
+        "text": "Delta",
+        "x_norm": 0.168187,
+        "y_norm": 0.894891,
+        "bbox_norm_tl": [0.145189, 0.886551, 0.191185, 0.903231],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "5",
+        "text": "Epsilon",
+        "x_norm": 0.495888,
+        "y_norm": 0.067611,
+        "bbox_norm_tl": [0.464968, 0.059271, 0.526808, 0.075951],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "6",
+        "text": "Zeta",
+        "x_norm": 0.553217,
+        "y_norm": 0.035534,
+        "bbox_norm_tl": [0.533344, 0.027194, 0.57309, 0.043874],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "7",
+        "text": "Eta",
+        "x_norm": 0.573791,
+        "y_norm": 0.119615,
+        "bbox_norm_tl": [0.55968, 0.111275, 0.587902, 0.127955],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "8",
+        "text": "Theta",
+        "x_norm": 0.910522,
+        "y_norm": 0.588016,
+        "bbox_norm_tl": [0.885839, 0.579676, 0.935205, 0.596356],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      },
+      {
+        "panel": 1,
+        "idx": "9",
+        "text": "Iota",
+        "x_norm": 0.966744,
+        "y_norm": 0.520112,
+        "bbox_norm_tl": [0.950265, 0.511772, 0.983223, 0.528452],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0
+      }
+    ]
+  }
+}

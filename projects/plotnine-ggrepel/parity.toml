@@ -1,0 +1,8 @@
+cases = "../../cases/ggrepel"
+from = "../../../sandbox/plotnine-ggrepel"
+package = "plotnine_ggrepel"
+api = ["geom_text_repel", "geom_label_repel", "position_nudge_repel"]
+
+[splits]
+dev = ["text_repel/*", "label_repel/*"]
+holdout = ["holdout/*"]

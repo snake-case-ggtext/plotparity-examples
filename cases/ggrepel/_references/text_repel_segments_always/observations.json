@@ -1,0 +1,176 @@
+{
+  "ggrepel": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.058024, 0.011416, 0.991438, 0.935097],
+        "points": [
+          {
+            "x_norm": 0.100451,
+            "y_norm": 0.893111,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.117423,
+            "y_norm": 0.857124,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.439875,
+            "y_norm": 0.293318,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.46024,
+            "y_norm": 0.269327,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.779299,
+            "y_norm": 0.773153,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.94901,
+            "y_norm": 0.053401,
+            "size_pt": 3.91
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "panel": 1,
+        "idx": "1",
+        "text": "One",
+        "x_norm": 0.123632,
+        "y_norm": 0.875393,
+        "bbox_norm_tl": [0.10609, 0.867053, 0.141174, 0.883733],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.103278,
+          "y0_norm": 0.883246,
+          "x1_norm": 0.101024,
+          "y1_norm": 0.891114,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "2",
+        "text": "Two",
+        "x_norm": 0.13532,
+        "y_norm": 0.839249,
+        "bbox_norm_tl": [0.11917, 0.830909, 0.15147, 0.847589],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.12298,
+          "y0_norm": 0.851338,
+          "x1_norm": 0.118868,
+          "y1_norm": 0.855619,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "3",
+        "text": "Three",
+        "x_norm": 0.421715,
+        "y_norm": 0.311108,
+        "bbox_norm_tl": [0.397057, 0.302768, 0.446373, 0.319448],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.434384,
+          "y0_norm": 0.299019,
+          "x1_norm": 0.438427,
+          "y1_norm": 0.294821,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "4",
+        "text": "Four",
+        "x_norm": 0.478316,
+        "y_norm": 0.251231,
+        "bbox_norm_tl": [0.459395, 0.242891, 0.497237, 0.259571],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.465994,
+          "y0_norm": 0.263321,
+          "x1_norm": 0.461684,
+          "y1_norm": 0.26782,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "5",
+        "text": "Five",
+        "x_norm": 0.79737,
+        "y_norm": 0.755131,
+        "bbox_norm_tl": [0.780244, 0.746791, 0.814496, 0.763471],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.784988,
+          "y0_norm": 0.767221,
+          "x1_norm": 0.780743,
+          "y1_norm": 0.771647,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      },
+      {
+        "panel": 1,
+        "idx": "6",
+        "text": "Six",
+        "x_norm": 0.931134,
+        "y_norm": 0.071277,
+        "bbox_norm_tl": [0.91817, 0.062937, 0.944098, 0.079617],
+        "color_hex": "#000000",
+        "alpha": 1,
+        "fontsize_pt": 11.04,
+        "fontweight": "normal",
+        "fontstyle": "normal",
+        "angle_deg": 0,
+        "segment": {
+          "x0_norm": 0.946911,
+          "y0_norm": 0.063317,
+          "x1_norm": 0.94858,
+          "y1_norm": 0.055433,
+          "color_hex": "#000000",
+          "alpha": 0
+        }
+      }
+    ]
+  }
+}
