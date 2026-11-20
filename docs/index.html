@@ -5,72 +5,34 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>plotparity examples</title>
 <style>
-:root{--bg:#fbfaf7;--surface:#fff;--ink:#1d1d1b;--ink-2:#55544f;--ink-3:#85837c;--line:#e6e3dc;--accent:#2f5bd3;color-scheme:light}
-@media (prefers-color-scheme:dark){:root{--bg:#141412;--surface:#1c1c1a;--ink:#ecebe6;--ink-2:#b5b3ab;--ink-3:#85837c;--line:#2e2d29;--accent:#7d9cf0;color-scheme:dark}}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
-main{max-width:760px;margin:0 auto;padding:56px 16px 72px}
-h1{font-size:28px;margin:0 0 8px;letter-spacing:-.01em}
-.lede{color:var(--ink-2);margin:0 0 36px;max-width:620px}
-h2{font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-3);margin:36px 0 10px}
+:root{--bg:#fbfaf7;--ink:#1d1d1b;--ink-2:#6b6a64;--line:#e6e3dc;--accent:#2f5bd3;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#141412;--ink:#ecebe6;--ink-2:#9a988f;--line:#2e2d29;--accent:#7d9cf0;color-scheme:dark}}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:600px;margin:0 auto;padding:64px 20px}
+h1{font-size:26px;margin:0 0 8px}
+p{color:var(--ink-2);margin:0 0 32px}
 a{color:var(--accent)}
-.card{display:block;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:0 0 10px}
-.card:hover{border-color:var(--accent)}
-.card b{font-size:17px;color:var(--accent)}
-.card p{margin:4px 0 0;color:var(--ink-2);font-size:14.5px}
-.card code,.lede code{font-size:13.5px}
-ul{color:var(--ink-2);padding-left:20px;font-size:14.5px}
-li{margin:3px 0}
-kbd{font:12px ui-monospace,Menlo,monospace;border:1px solid var(--line);border-bottom-width:2px;border-radius:4px;padding:0 4px;background:var(--surface)}
-.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:12px 0 6px}
-.shot{display:block;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}
-.shot:hover{border-color:var(--accent)}
-.shot img{display:block;width:100%;height:150px;object-fit:cover;background:#fff;border-bottom:1px solid var(--line)}
-.shot span{display:block;padding:8px 10px;font-size:13px;color:var(--ink-2)}
-.shot b{display:block;color:var(--ink);font-size:13.5px;margin-bottom:2px}
-footer{margin-top:44px;color:var(--ink-3);font-size:13.5px}
+ul{list-style:none;padding:0;margin:0}
+li{padding:12px 0;border-top:1px solid var(--line)}
+li:last-child{border-bottom:1px solid var(--line)}
+li a{font-weight:600;text-decoration:none}
+li a:hover{text-decoration:underline}
+li span{display:block;color:var(--ink-2);font-size:15px}
+footer{margin-top:28px;font-size:14px;color:var(--ink-2)}
 </style>
 </head>
 <body>
 <main>
 <h1>plotparity examples</h1>
-<p class="lede"><a href="https://github.com/snake-case-ggtext/plotparity">plotparity</a> tests a plotnine extension against its ggplot2 original: each test plot is drawn in R and in Python, and every label, shape and colour is compared. These are live reports for five packages, including multi-round clean-room port progressions.</p>
-
-<h2>ggtext</h2>
-<a class="card" href="ggtext.html"><b>plotnine-ggtext</b>
-<p>Matches R on every feature it implements. The cases that differ use features it doesn't have yet: theme elements, <code>&lt;img&gt;</code>, R colour names, <code>~sub~</code>/<code>^sup^</code>.</p></a>
-<a class="card" href="ggtext-shanellis.html"><b>Shannon Ellis's ggtext</b>
-<p><code>ggtext_ShanEllis@9d845be</code> (16/34 cases match R): highlights real gaps in box padding, superscript sizing, R colour names, and theme element options.</p></a>
-
-<h2>ggridges</h2>
-<a class="card" href="ridgenine.html"><b>ridgenine</b>
-<p>Ridgeline plots for plotnine. Each case has an <code>_r_defaults</code> twin that passes ggridges' defaults explicitly, separating different defaults from different behaviour.</p></a>
-
-<h2>ggbeeswarm</h2>
-<a class="card" href="ggbeeswarm.html"><b>plotnine-ggbeeswarm (Round 0 → Round 7 + Holdout)</b>
-<p>Clean-room port of <code>ggbeeswarm</code> verified iteratively across 8 dev rounds (5/8 → 8/8 match) plus an unseen holdout split (3/4 match). Click any round and step with <kbd>←</kbd><kbd>→</kbd> to watch layouts converge.</p></a>
-
-<h2>ggrepel</h2>
-<a class="card" href="ggrepel.html"><b>plotnine-ggrepel (Round 0 → Round 2 + Holdouts)</b>
-<p>Clean-room port of <code>ggrepel</code> (6/6 dev + 4/4 unseen holdout = 10/10 match). Step through Round 0 (3/6, label overlaps) → Round 1 (1/6, tight dot spacing caught by dot-radius check) → Round 2 (6/6, clean R-matched clearance).</p></a>
-
-<h2>Clean-room port progression</h2>
-<div class="gallery">
-  <a class="shot" href="process/ggbeeswarm_tukey_progression.png"><img src="process/ggbeeswarm_tukey_progression.png" alt="ggbeeswarm tukey progression"><span><b>ggbeeswarm · tukey</b>Round 0 → Round 7 converging to R</span></a>
-  <a class="shot" href="process/ggrepel_overlap_fix.png"><img src="process/ggrepel_overlap_fix.png" alt="ggrepel cluster progression"><span><b>ggrepel · cluster</b>Round 0 → Round 1 → Round 2</span></a>
-  <a class="shot" href="process/holdout_showcase.png"><img src="process/holdout_showcase.png" alt="unseen holdout showcase"><span><b>Unseen holdouts</b>Facets &amp; edge bounds never seen in dev</span></a>
-</div>
-
-<h2>Reading a report</h2>
+<p>Each report draws the same plots in ggplot2 and in a plotnine port, then compares them.</p>
 <ul>
-<li>Pick a case on the left; its R and Python renders are compared on the right, with each finding outlined on both.</li>
-<li>On multi-round reports, click any round in the top bar (or any cell in Overview) and press <kbd>←</kbd><kbd>→</kbd> to step through rounds in place.</li>
-<li>Views: side by side <kbd>s</kbd>, blink <kbd>b</kbd>, swipe <kbd>w</kbd>, difference <kbd>d</kbd>. Hold <kbd>space</kbd> to flip.</li>
-<li>Findings list R's value and Python's, and how far apart they are (<code>Δ 3.09 &gt; 2</code>). <b>Settings</b> shows every check's tolerance.</li>
-<li><b>OK</b> marks a finding as reviewed; marks stay in your browser only.</li>
+<li><a href="ggtext.html">plotnine-ggtext</a><span>Port of ggtext</span></li>
+<li><a href="ggtext-shanellis.html">ggtext (Shannon Ellis)</a><span>Another ggtext port, 16 of 34 match</span></li>
+<li><a href="ridgenine.html">ridgenine</a><span>Port of ggridges</span></li>
+<li><a href="ggbeeswarm.html">plotnine-ggbeeswarm</a><span>Port of ggbeeswarm, built over 8 rounds</span></li>
+<li><a href="ggrepel.html">plotnine-ggrepel</a><span>Port of ggrepel, built over 3 rounds</span></li>
 </ul>
-
-<footer>Cases and setups: <a href="https://github.com/snake-case-ggtext/plotparity-examples">plotparity-examples</a>. Rebuilt with <code>scripts/build_site.sh</code>.</footer>
+<footer><a href="https://github.com/snake-case-ggtext/plotparity">plotparity</a> · <a href="https://github.com/snake-case-ggtext/plotparity-examples">cases &amp; source</a></footer>
 </main>
 </body>
 </html>
