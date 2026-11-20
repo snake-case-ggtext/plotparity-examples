@@ -1,0 +1,25 @@
+{
+  "case": "mark_hull_expand_radius",
+  "input_hash": "b542bafea4a5904cdbc15f05c3b5bc897e59af4aa6ea37b0b6dc8b52f3e999a4",
+  "font_hashes": {
+    "DejaVuSans.ttf": "3fdf69cabf06049e",
+    "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
+    "DejaVuSans-Oblique.ttf": "ccdf74b350f11fd3",
+    "DejaVuSans-BoldOblique.ttf": "6edf0283160186af"
+  },
+  "r_env": {
+    "r_version": "R version 4.3.2 (2023-10-31)",
+    "platform": "aarch64-apple-darwin20",
+    "packages": {
+      "ggplot2": "3.5.2",
+      "ggforce": "0.5.0",
+      "ragg": "1.2.7",
+      "systemfonts": "1.2.3",
+      "jsonlite": "1.8.8"
+    }
+  },
+  "adapter": [
+    "ggforce",
+    "0.1.0"
+  ]
+}

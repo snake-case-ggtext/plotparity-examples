@@ -7,13 +7,15 @@ cd "$(dirname "$0")/.."
 for p in ggtext ggtext-shanellis ridgenine; do
   (cd "projects/$p" && { $PP run -q --no-html || true; } && $PP view --public --no-open --out "../../docs/$p.html")
 done
-for pair in "plotnine-ggbeeswarm:ggbeeswarm-port:ggbeeswarm" "plotnine-ggrepel:ggrepel-port:ggrepel" "plotnine-ggalluvial:ggalluvial-port:ggalluvial" "plotnine-geomtextpath:geomtextpath-port:geomtextpath"; do
+for pair in "plotnine-ggbeeswarm:ggbeeswarm-port:ggbeeswarm" "plotnine-ggrepel:ggrepel-port:ggrepel" "plotnine-ggalluvial:ggalluvial-port:ggalluvial" "plotnine-geomtextpath:geomtextpath-port:geomtextpath" "plotnine-ggforce:ggforce-port:ggforce" "plotnine-treemapify:treemapify-port:treemapify" "plotnine-ggstream:ggstream-port:ggstream"; do
   proj="${pair%%:*}"; rest="${pair#*:}"; loop="${rest%%:*}"; out="${rest#*:}"
   if [ -d "projects/$proj/.plotparity/runs/loops/$loop" ]; then
-    $PP view --public --no-open \
-      "projects/$proj/.plotparity/runs/loops/$loop"/iter_* \
-      "projects/$proj/.plotparity/runs/loops/$loop"/holdout_* \
-      --out "docs/$out.html"
+    runs=""
+    for d in "projects/$proj/.plotparity/runs/loops/$loop"/iter_* "projects/$proj/.plotparity/runs/loops/$loop"/holdout_*; do
+      [ -d "$d" ] && runs="$runs $d"
+    done
+    # shellcheck disable=SC2086
+    $PP view --public --no-open $runs --out "docs/$out.html"
   else
     (cd "projects/$proj" && { $PP run -q --no-html || true; } && $PP view --public --no-open --out "../../docs/$out.html")
   fi

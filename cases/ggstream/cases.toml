@@ -1,0 +1,9 @@
+adapter = "ggstream"
+
+[reference]
+packages = ["ggplot2", "ggstream"]
+
+[render]
+width_px = 640
+height_px = 480
+dpi = 72

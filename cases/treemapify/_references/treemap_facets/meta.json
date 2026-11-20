@@ -1,0 +1,25 @@
+{
+  "case": "treemap_facets",
+  "input_hash": "8c77fd25a2a3e1baad646dc7c0dc7e38a5a08f7954ef617815ccb178343ae229",
+  "font_hashes": {
+    "DejaVuSans.ttf": "3fdf69cabf06049e",
+    "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
+    "DejaVuSans-Oblique.ttf": "ccdf74b350f11fd3",
+    "DejaVuSans-BoldOblique.ttf": "6edf0283160186af"
+  },
+  "r_env": {
+    "r_version": "R version 4.3.2 (2023-10-31)",
+    "platform": "aarch64-apple-darwin20",
+    "packages": {
+      "ggplot2": "3.5.2",
+      "treemapify": "2.5.6",
+      "ragg": "1.2.7",
+      "systemfonts": "1.2.3",
+      "jsonlite": "1.8.8"
+    }
+  },
+  "adapter": [
+    "treemapify",
+    "0.1.0"
+  ]
+}

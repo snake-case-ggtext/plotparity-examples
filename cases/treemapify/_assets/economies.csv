@@ -1,0 +1,13 @@
+country,long_label,region,subregion,gdp,hdi
+USA,United States of America,Americas,North America,255,0.92
+Canada,Dominion of Canada,Americas,North America,22,0.93
+Brazil,Federative Republic of Brazil,Americas,South America,21,0.76
+Argentina,Argentine Republic,Americas,South America,6,0.84
+China,People's Republic of China,Asia,East Asia,179,0.77
+Japan,State of Japan,Asia,East Asia,42,0.92
+India,Republic of India,Asia,South Asia,35,0.64
+Germany,Federal Republic of Germany,Europe,Western Europe,41,0.94
+France,French Republic,Europe,Western Europe,28,0.90
+UK,United Kingdom of Great Britain,Europe,Northern Europe,31,0.93
+Sweden,Kingdom of Sweden,Europe,Northern Europe,6,0.95
+Norway,Kingdom of Norway,Europe,Northern Europe,5,0.96

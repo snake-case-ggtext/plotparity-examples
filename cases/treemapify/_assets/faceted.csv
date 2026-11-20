@@ -1,0 +1,9 @@
+item,region,subgroup,value
+Alpha,East,Core,45
+Beta,East,Core,25
+Gamma,East,Edge,18
+Delta,East,Edge,12
+Epsilon,West,Core,55
+Zeta,West,Core,20
+Eta,West,Edge,15
+Theta,West,Edge,10

@@ -1,0 +1,260 @@
+{
+  "ggforce": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.044913, 0.011416, 0.867382, 0.935097],
+        "points": [
+          {
+            "x_norm": 0.082298,
+            "y_norm": 0.851473,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.114191,
+            "y_norm": 0.775135,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.13309,
+            "y_norm": 0.883396,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.15317,
+            "y_norm": 0.809834,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.168526,
+            "y_norm": 0.744601,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.188606,
+            "y_norm": 0.844533,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.208686,
+            "y_norm": 0.789015,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.100016,
+            "y_norm": 0.816774,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.176794,
+            "y_norm": 0.893111,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.141358,
+            "y_norm": 0.75848,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.200418,
+            "y_norm": 0.823714,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.121278,
+            "y_norm": 0.841757,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.696522,
+            "y_norm": 0.802895,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.726052,
+            "y_norm": 0.726557,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.749676,
+            "y_norm": 0.823714,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.767394,
+            "y_norm": 0.754316,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.787474,
+            "y_norm": 0.698798,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.808736,
+            "y_norm": 0.782075,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.829997,
+            "y_norm": 0.733497,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.716602,
+            "y_norm": 0.768196,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.775662,
+            "y_norm": 0.833429,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.755582,
+            "y_norm": 0.708514,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.80283,
+            "y_norm": 0.761256,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.735501,
+            "y_norm": 0.791791,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.38941,
+            "y_norm": 0.157497,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.41894,
+            "y_norm": 0.08116,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.440201,
+            "y_norm": 0.185256,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.456738,
+            "y_norm": 0.111695,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.478,
+            "y_norm": 0.053401,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.495718,
+            "y_norm": 0.147782,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.515798,
+            "y_norm": 0.092264,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.407128,
+            "y_norm": 0.120023,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.46855,
+            "y_norm": 0.194972,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.44847,
+            "y_norm": 0.064505,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.489812,
+            "y_norm": 0.122799,
+            "size_pt": 3.91
+          },
+          {
+            "x_norm": 0.428389,
+            "y_norm": 0.143618,
+            "size_pt": 3.91
+          }
+        ]
+      }
+    ],
+    "marks": [
+      {
+        "panel": 1,
+        "polygon": {
+          "id": 1,
+          "geom_kind": "rect",
+          "vertices_norm_tl": [
+            [0.217545, 0.73279],
+            [0.07344, 0.73279],
+            [0.07344, 0.904922],
+            [0.217545, 0.904922]
+          ],
+          "bbox_norm_tl": [0.07344, 0.73279, 0.217545, 0.904922],
+          "facecolor_hex": "#f8766d",
+          "face_alpha": 0.298,
+          "edgecolor_hex": "#000000",
+          "edge_alpha": 1,
+          "linewidth_pt": 1.067,
+          "linetype": "solid"
+        },
+        "callout": {},
+        "connector": {}
+      },
+      {
+        "panel": 1,
+        "polygon": {
+          "id": 2,
+          "geom_kind": "rect",
+          "vertices_norm_tl": [
+            [0.838855, 0.686987],
+            [0.687663, 0.686987],
+            [0.687663, 0.84524],
+            [0.838855, 0.84524]
+          ],
+          "bbox_norm_tl": [0.687663, 0.686987, 0.838855, 0.84524],
+          "facecolor_hex": "#00ba38",
+          "face_alpha": 0.298,
+          "edgecolor_hex": "#000000",
+          "edge_alpha": 1,
+          "linewidth_pt": 1.067,
+          "linetype": "solid"
+        },
+        "callout": {},
+        "connector": {}
+      },
+      {
+        "panel": 1,
+        "polygon": {
+          "id": 3,
+          "geom_kind": "rect",
+          "vertices_norm_tl": [
+            [0.524656, 0.04159],
+            [0.380552, 0.04159],
+            [0.380552, 0.206783],
+            [0.524656, 0.206783]
+          ],
+          "bbox_norm_tl": [0.380552, 0.04159, 0.524656, 0.206783],
+          "facecolor_hex": "#619cff",
+          "face_alpha": 0.298,
+          "edgecolor_hex": "#000000",
+          "edge_alpha": 1,
+          "linewidth_pt": 1.067,
+          "linetype": "solid"
+        },
+        "callout": {},
+        "connector": {}
+      }
+    ]
+  }
+}

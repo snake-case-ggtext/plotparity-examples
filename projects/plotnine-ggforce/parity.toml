@@ -1,0 +1,9 @@
+cases = "../../cases/ggforce"
+from = "git+https://github.com/snake-case-ggtext/plotnine-ggforce@5f8203fab74ce05934dafa2ac95d8d89db1c5773"
+package = "plotnine_ggforce"
+clean_room = true
+api = ["geom_mark_hull", "geom_mark_ellipse", "geom_mark_circle", "geom_mark_rect"]
+
+[splits]
+dev = ["dev/*"]
+holdout = ["holdout/*"]

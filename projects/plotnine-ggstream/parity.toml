@@ -1,0 +1,14 @@
+cases = "../../cases/ggstream"
+from = "git+https://github.com/snake-case-ggtext/plotnine-ggstream@aade69777f8d5d73c38d3ffbc4b29547b4616289"
+package = "plotnine_ggstream"
+clean_room = true
+api = [
+    "geom_stream",
+    "stat_stream",
+    "geom_stream_label",
+    "stat_stream_label",
+]
+
+[splits]
+dev = ["basic/*", "sorting/*", "labels/*"]
+holdout = ["holdout/*"]

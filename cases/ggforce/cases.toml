@@ -1,0 +1,9 @@
+adapter = "ggforce"
+
+[reference]
+packages = ["ggplot2", "ggforce"]
+
+[render]
+width_px = 640
+height_px = 480
+dpi = 72

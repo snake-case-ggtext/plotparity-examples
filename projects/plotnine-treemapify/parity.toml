@@ -1,0 +1,16 @@
+cases = "../../cases/treemapify"
+from = "git+https://github.com/snake-case-ggtext/plotnine-treemapify@f6ab0f32d90ea04378f3f00f490390f29707b7ff"
+package = "plotnine_treemapify"
+clean_room = true
+api = [
+    "geom_treemap",
+    "geom_treemap_text",
+    "geom_treemap_subgroup_border",
+    "geom_treemap_subgroup_text",
+    "geom_treemap_subgroup2_border",
+    "geom_treemap_subgroup2_text",
+]
+
+[splits]
+dev = ["dev/*"]
+holdout = ["holdout/*"]

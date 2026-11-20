@@ -1,0 +1,37 @@
+x,y,group,desc
+1.45,1.85,Alpha,Low x and low y baseline cluster with compact spread
+1.72,2.40,Alpha,Low x and low y baseline cluster with compact spread
+1.88,1.62,Alpha,Low x and low y baseline cluster with compact spread
+2.05,2.15,Alpha,Low x and low y baseline cluster with compact spread
+2.18,2.62,Alpha,Low x and low y baseline cluster with compact spread
+2.35,1.90,Alpha,Low x and low y baseline cluster with compact spread
+2.52,2.30,Alpha,Low x and low y baseline cluster with compact spread
+1.60,2.10,Alpha,Low x and low y baseline cluster with compact spread
+2.25,1.55,Alpha,Low x and low y baseline cluster with compact spread
+1.95,2.52,Alpha,Low x and low y baseline cluster with compact spread
+2.45,2.05,Alpha,Low x and low y baseline cluster with compact spread
+1.78,1.92,Alpha,Low x and low y baseline cluster with compact spread
+6.65,2.20,Beta,High x moderate y cluster clearly separated on the right
+6.90,2.75,Beta,High x moderate y cluster clearly separated on the right
+7.10,2.05,Beta,High x moderate y cluster clearly separated on the right
+7.25,2.55,Beta,High x moderate y cluster clearly separated on the right
+7.42,2.95,Beta,High x moderate y cluster clearly separated on the right
+7.60,2.35,Beta,High x moderate y cluster clearly separated on the right
+7.78,2.70,Beta,High x moderate y cluster clearly separated on the right
+6.82,2.45,Beta,High x moderate y cluster clearly separated on the right
+7.32,1.98,Beta,High x moderate y cluster clearly separated on the right
+7.15,2.88,Beta,High x moderate y cluster clearly separated on the right
+7.55,2.50,Beta,High x moderate y cluster clearly separated on the right
+6.98,2.28,Beta,High x moderate y cluster clearly separated on the right
+4.05,6.85,Gamma,Upper middle cluster with elevated vertical values
+4.30,7.40,Gamma,Upper middle cluster with elevated vertical values
+4.48,6.65,Gamma,Upper middle cluster with elevated vertical values
+4.62,7.18,Gamma,Upper middle cluster with elevated vertical values
+4.80,7.60,Gamma,Upper middle cluster with elevated vertical values
+4.95,6.92,Gamma,Upper middle cluster with elevated vertical values
+5.12,7.32,Gamma,Upper middle cluster with elevated vertical values
+4.20,7.12,Gamma,Upper middle cluster with elevated vertical values
+4.72,6.58,Gamma,Upper middle cluster with elevated vertical values
+4.55,7.52,Gamma,Upper middle cluster with elevated vertical values
+4.90,7.10,Gamma,Upper middle cluster with elevated vertical values
+4.38,6.95,Gamma,Upper middle cluster with elevated vertical values

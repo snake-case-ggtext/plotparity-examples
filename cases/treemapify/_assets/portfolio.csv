@@ -1,0 +1,9 @@
+item,category,subcat,value,score
+Alpha,Hardware,Compute,42,88
+Beta,Hardware,Compute,26,74
+Gamma,Hardware,Storage,18,65
+Delta,Software,Cloud,34,92
+Epsilon,Software,Cloud,21,81
+Zeta,Software,Analytics,14,70
+Eta,Services,Support,11,60
+Theta,Services,Advisory,7,54
