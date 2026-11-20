@@ -1,5 +1,5 @@
 cases = "../../cases/ggstream"
-from = "git+https://github.com/snake-case-ggtext/plotnine-ggstream@aade69777f8d5d73c38d3ffbc4b29547b4616289"
+from = "git+https://github.com/snake-case-ggtext/plotnine-ggstream@16e2d47a37ecfd5484cfd6358632ddde3b516075"
 package = "plotnine_ggstream"
 clean_room = true
 api = [
