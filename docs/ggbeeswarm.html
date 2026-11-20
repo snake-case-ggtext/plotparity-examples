@@ -150,6 +150,7 @@ table.mx{border-collapse:separate;border-spacing:0;margin-top:14px;background:va
 .mx th,.mx td{padding:7px 12px;border-bottom:1px solid var(--line);font-size:13px;text-align:left}
 .mx th{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-3);font-weight:700;background:var(--surface-2)}
 .mx td.c{text-align:center;cursor:pointer} .mx td.c:hover{background:var(--accent-soft)}
+.mx td.cname{cursor:pointer} .mx td.cname:hover{color:var(--accent);text-decoration:underline}
 .mx tr:last-child td{border-bottom:0}
 kbd{font-family:var(--mono);font-size:11px;border:1px solid var(--line-2);border-bottom-width:2px;border-radius:4px;padding:0 4px;background:var(--surface)}
 .keys{font-size:11.5px;color:var(--ink-3);padding:10px 14px;border-top:1px solid var(--line);line-height:1.9}
@@ -529,7 +530,8 @@ function renderOverview(){
   let h = `<div class="ov">
     <table class="mx"><thead><tr><th>Case</th>${D.runs.map(r=>`<th>${esc(r.label)}<div style="text-transform:none;letter-spacing:0;font-weight:500">${counts(r).pass}/${r.cases.length} match</div></th>`).join("")}</tr></thead><tbody>`;
   for (const id of ids){
-    h += `<tr><td><span class="mono">${esc(id)}</span></td>${D.runs.map((r,ri)=>{ const c=caseOf(r,id); const nf=c?c.findings.filter(f=>f.status==="fail").length:0;
+    const lastRi = [...D.runs.keys()].reverse().find(ri => caseOf(D.runs[ri], id)) ?? 0;
+    h += `<tr><td class="cname" data-cell="${lastRi}|${esc(id)}"><span class="mono">${esc(id)}</span></td>${D.runs.map((r,ri)=>{ const c=caseOf(r,id); const nf=c?c.findings.filter(f=>f.status==="fail").length:0;
       return `<td class="c" data-cell="${ri}|${esc(id)}" title="${esc(statusLabel(c))}"><i class="dot st-${caseStatus(c)}"></i>${nf?` <span class="faint mono">${nf}</span>`:""}</td>`;}).join("")}</tr>`;
   }
   $("#main").innerHTML = h + `</tbody></table></div>`;

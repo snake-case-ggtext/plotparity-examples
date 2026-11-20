@@ -1,5 +1,5 @@
 cases = "../../cases/ggrepel"
-from = "git+https://github.com/snake-case-ggtext/plotnine-ggrepel@357bc05b3ff0d0442aaa7735f38874e9ffb93e1a"
+from = "git+https://github.com/snake-case-ggtext/plotnine-ggrepel@fbe98783a39003e6e430bd715ef17ff71361d2e5"
 package = "plotnine_ggrepel"
 clean_room = true
 api = ["geom_text_repel", "geom_label_repel", "position_nudge_repel"]

@@ -22,6 +22,12 @@ a{color:var(--accent)}
 ul{color:var(--ink-2);padding-left:20px;font-size:14.5px}
 li{margin:3px 0}
 kbd{font:12px ui-monospace,Menlo,monospace;border:1px solid var(--line);border-bottom-width:2px;border-radius:4px;padding:0 4px;background:var(--surface)}
+.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:12px 0 6px}
+.shot{display:block;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.shot:hover{border-color:var(--accent)}
+.shot img{display:block;width:100%;height:150px;object-fit:cover;background:#fff;border-bottom:1px solid var(--line)}
+.shot span{display:block;padding:8px 10px;font-size:13px;color:var(--ink-2)}
+.shot b{display:block;color:var(--ink);font-size:13.5px;margin-bottom:2px}
 footer{margin-top:44px;color:var(--ink-3);font-size:13.5px}
 </style>
 </head>
@@ -46,7 +52,14 @@ footer{margin-top:44px;color:var(--ink-3);font-size:13.5px}
 
 <h2>ggrepel</h2>
 <a class="card" href="ggrepel.html"><b>plotnine-ggrepel (Round 0 → Round 2 + Holdouts)</b>
-<p>Clean-room port of <code>ggrepel</code> (6/6 dev + 4/4 unseen holdout = 10/10 match). Step through Round 0 (label overlaps) → Round 1 (tight dot spacing caught by visual review) → Round 2 (clean R-matched dot clearance).</p></a>
+<p>Clean-room port of <code>ggrepel</code> (6/6 dev + 4/4 unseen holdout = 10/10 match). Step through Round 0 (3/6, label overlaps) → Round 1 (1/6, tight dot spacing caught by dot-radius check) → Round 2 (6/6, clean R-matched clearance).</p></a>
+
+<h2>Clean-room port progression</h2>
+<div class="gallery">
+  <a class="shot" href="process/ggbeeswarm_tukey_progression.png"><img src="process/ggbeeswarm_tukey_progression.png" alt="ggbeeswarm tukey progression"><span><b>ggbeeswarm · tukey</b>Round 0 → Round 7 converging to R</span></a>
+  <a class="shot" href="process/ggrepel_overlap_fix.png"><img src="process/ggrepel_overlap_fix.png" alt="ggrepel cluster progression"><span><b>ggrepel · cluster</b>Round 0 → Round 1 → Round 2</span></a>
+  <a class="shot" href="process/holdout_showcase.png"><img src="process/holdout_showcase.png" alt="unseen holdout showcase"><span><b>Unseen holdouts</b>Facets &amp; edge bounds never seen in dev</span></a>
+</div>
 
 <h2>Reading a report</h2>
 <ul>
