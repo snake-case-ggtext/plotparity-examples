@@ -1,0 +1,260 @@
+{
+  "geomtextpath": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.06298, 0.011416, 0.991438, 0.935097]
+      }
+    ],
+    "curves": [
+      {
+        "panel": 1,
+        "text": "Floating curved text",
+        "glyphs": [
+          {
+            "char": "F",
+            "cx_norm": 0.496645,
+            "cy_norm": 0.372111,
+            "angle_deg": -66.29,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.490608, 0.360611, 0.502683, 0.383611]
+          },
+          {
+            "char": "l",
+            "cx_norm": 0.4996,
+            "cy_norm": 0.381082,
+            "angle_deg": -66.29,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.493563, 0.369582, 0.505637, 0.392582]
+          },
+          {
+            "char": "o",
+            "cx_norm": 0.502682,
+            "cy_norm": 0.390441,
+            "angle_deg": -66.29,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.496644, 0.378941, 0.50872, 0.401941]
+          },
+          {
+            "char": "a",
+            "cx_norm": 0.506928,
+            "cy_norm": 0.403331,
+            "angle_deg": -66.42,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.500891, 0.391831, 0.512966, 0.414831]
+          },
+          {
+            "char": "t",
+            "cx_norm": 0.510363,
+            "cy_norm": 0.41394,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.504325, 0.40244, 0.516401, 0.42544]
+          },
+          {
+            "char": "i",
+            "cx_norm": 0.512638,
+            "cy_norm": 0.421017,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.5066, 0.409517, 0.518676, 0.432517]
+          },
+          {
+            "char": "n",
+            "cx_norm": 0.515729,
+            "cy_norm": 0.430636,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.509691, 0.419136, 0.521767, 0.442136]
+          },
+          {
+            "char": "g",
+            "cx_norm": 0.520032,
+            "cy_norm": 0.444026,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.513995, 0.432526, 0.52607, 0.455526]
+          },
+          {
+            "char": " ",
+            "cx_norm": 0.523264,
+            "cy_norm": 0.454079,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.517226, 0.442579, 0.529301, 0.465579]
+          },
+          {
+            "char": "c",
+            "cx_norm": 0.526206,
+            "cy_norm": 0.463235,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.520168, 0.451735, 0.532243, 0.474735]
+          },
+          {
+            "char": "u",
+            "cx_norm": 0.530221,
+            "cy_norm": 0.475727,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.524184, 0.464227, 0.536259, 0.487227]
+          },
+          {
+            "char": "r",
+            "cx_norm": 0.533764,
+            "cy_norm": 0.486752,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.527726, 0.475252, 0.539802, 0.498252]
+          },
+          {
+            "char": "v",
+            "cx_norm": 0.537168,
+            "cy_norm": 0.497344,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.53113, 0.485844, 0.543206, 0.508844]
+          },
+          {
+            "char": "e",
+            "cx_norm": 0.541265,
+            "cy_norm": 0.51009,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.535227, 0.49859, 0.547303, 0.52159]
+          },
+          {
+            "char": "d",
+            "cx_norm": 0.545506,
+            "cy_norm": 0.523285,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.539469, 0.511785, 0.551544, 0.534785]
+          },
+          {
+            "char": " ",
+            "cx_norm": 0.548737,
+            "cy_norm": 0.533339,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.5427, 0.521839, 0.554775, 0.544839]
+          },
+          {
+            "char": "t",
+            "cx_norm": 0.551166,
+            "cy_norm": 0.540822,
+            "angle_deg": -66.361,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.545129, 0.529322, 0.557204, 0.552322]
+          },
+          {
+            "char": "e",
+            "cx_norm": 0.554597,
+            "cy_norm": 0.551239,
+            "angle_deg": -66.29,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.548559, 0.539739, 0.560635, 0.562739]
+          },
+          {
+            "char": "x",
+            "cx_norm": 0.55872,
+            "cy_norm": 0.563757,
+            "angle_deg": -66.29,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.552682, 0.552257, 0.564758, 0.575257]
+          },
+          {
+            "char": "t",
+            "cx_norm": 0.562132,
+            "cy_norm": 0.574114,
+            "angle_deg": -66.29,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.556094, 0.562614, 0.56817, 0.585614]
+          }
+        ],
+        "polylines": [],
+        "box": {}
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "r_version": "R version 4.3.2 (2023-10-31)",
+  "platform": "aarch64-apple-darwin20",
+  "packages": {
+    "ggplot2": "3.5.2",
+    "ggalluvial": "0.12.5",
+    "ragg": "1.2.7",
+    "systemfonts": "1.2.3",
+    "jsonlite": "1.8.8"
+  }
+}

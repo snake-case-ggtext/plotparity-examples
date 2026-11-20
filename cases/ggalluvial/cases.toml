@@ -1,0 +1,9 @@
+adapter = "ggalluvial"
+
+[reference]
+packages = ["ggplot2", "ggalluvial"]
+
+[render]
+width_px = 640
+height_px = 480
+dpi = 72

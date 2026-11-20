@@ -1,0 +1,250 @@
+{
+  "geomtextpath": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.06298, 0.011416, 0.991438, 0.935097]
+      }
+    ],
+    "curves": [
+      {
+        "panel": 1,
+        "text": "Continuous line",
+        "glyphs": [
+          {
+            "char": "C",
+            "cx_norm": 0.505023,
+            "cy_norm": 0.397547,
+            "angle_deg": -66.29,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.498986, 0.386047, 0.511061, 0.409047]
+          },
+          {
+            "char": "o",
+            "cx_norm": 0.509531,
+            "cy_norm": 0.41135,
+            "angle_deg": -66.74,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.503493, 0.39985, 0.515568, 0.42285]
+          },
+          {
+            "char": "n",
+            "cx_norm": 0.513757,
+            "cy_norm": 0.424501,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.50772, 0.413001, 0.519795, 0.436001]
+          },
+          {
+            "char": "t",
+            "cx_norm": 0.517238,
+            "cy_norm": 0.435332,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.5112, 0.423832, 0.523276, 0.446832]
+          },
+          {
+            "char": "i",
+            "cx_norm": 0.519513,
+            "cy_norm": 0.442408,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.513475, 0.430908, 0.525551, 0.453908]
+          },
+          {
+            "char": "n",
+            "cx_norm": 0.522604,
+            "cy_norm": 0.452028,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.516566, 0.440528, 0.528642, 0.463528]
+          },
+          {
+            "char": "u",
+            "cx_norm": 0.526903,
+            "cy_norm": 0.465402,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.520865, 0.453902, 0.532941, 0.476902]
+          },
+          {
+            "char": "o",
+            "cx_norm": 0.531129,
+            "cy_norm": 0.478552,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.525091, 0.467052, 0.537166, 0.490052]
+          },
+          {
+            "char": "u",
+            "cx_norm": 0.535355,
+            "cy_norm": 0.491702,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.529318, 0.480202, 0.541393, 0.503202]
+          },
+          {
+            "char": "s",
+            "cx_norm": 0.539274,
+            "cy_norm": 0.503895,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.533236, 0.492395, 0.545312, 0.515395]
+          },
+          {
+            "char": " ",
+            "cx_norm": 0.54212,
+            "cy_norm": 0.512752,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.536083, 0.501252, 0.548158, 0.524252]
+          },
+          {
+            "char": "l",
+            "cx_norm": 0.54414,
+            "cy_norm": 0.519035,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.538102, 0.507535, 0.550178, 0.530535]
+          },
+          {
+            "char": "i",
+            "cx_norm": 0.546024,
+            "cy_norm": 0.524899,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.539986, 0.513399, 0.552061, 0.536399]
+          },
+          {
+            "char": "n",
+            "cx_norm": 0.549116,
+            "cy_norm": 0.534519,
+            "angle_deg": -66.675,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.543079, 0.523019, 0.555154, 0.546019]
+          },
+          {
+            "char": "e",
+            "cx_norm": 0.553418,
+            "cy_norm": 0.547661,
+            "angle_deg": -66.29,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.54738, 0.536161, 0.559456, 0.559161]
+          }
+        ],
+        "polylines": [
+          {
+            "points_norm_tl": [
+              [0.105182, 0.473256],
+              [0.126286, 0.407591],
+              [0.14739, 0.343521],
+              [0.168481, 0.282642],
+              [0.189585, 0.226465],
+              [0.210689, 0.176377],
+              [0.231793, 0.133593],
+              [0.252897, 0.099165],
+              [0.273988, 0.073932],
+              [0.295092, 0.058565],
+              [0.316196, 0.053401],
+              [0.3373, 0.058565],
+              [0.358404, 0.073932],
+              [0.379494, 0.099165],
+              [0.400598, 0.133593],
+              [0.421702, 0.176377],
+              [0.442806, 0.226465],
+              [0.46391, 0.282642],
+              [0.485001, 0.343521],
+              [0.506105, 0.407591],
+              [0.527209, 0.473256],
+              [0.548313, 0.538922],
+              [0.569417, 0.602991],
+              [0.590508, 0.66387],
+              [0.611612, 0.720047],
+              [0.632716, 0.770136],
+              [0.65382, 0.812919],
+              [0.674924, 0.847347],
+              [0.696014, 0.87258],
+              [0.717118, 0.887947],
+              [0.738222, 0.893111],
+              [0.759326, 0.887947],
+              [0.780417, 0.87258],
+              [0.801521, 0.847347],
+              [0.822625, 0.812919],
+              [0.843729, 0.770136],
+              [0.864833, 0.720047],
+              [0.885924, 0.66387],
+              [0.907028, 0.602991],
+              [0.928132, 0.538922],
+              [0.949236, 0.473256]
+            ],
+            "color_hex": "#000000",
+            "alpha": 1,
+            "linewidth_pt": 1.067,
+            "linetype": "solid"
+          }
+        ],
+        "box": {}
+      }
+    ]
+  }
+}

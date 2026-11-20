@@ -1,0 +1,197 @@
+{
+  "geomtextpath": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.06298, 0.011416, 0.991438, 0.935097]
+      }
+    ],
+    "curves": [
+      {
+        "panel": 1,
+        "text": "Spaced out",
+        "glyphs": [
+          {
+            "char": "S",
+            "cx_norm": 0.503436,
+            "cy_norm": 0.39273,
+            "angle_deg": -66.29,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.497399, 0.38123, 0.509474, 0.40423]
+          },
+          {
+            "char": "p",
+            "cx_norm": 0.509741,
+            "cy_norm": 0.412005,
+            "angle_deg": -66.693,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.503703, 0.400505, 0.515779, 0.423505]
+          },
+          {
+            "char": "a",
+            "cx_norm": 0.515881,
+            "cy_norm": 0.431109,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.509844, 0.419609, 0.521919, 0.442609]
+          },
+          {
+            "char": "c",
+            "cx_norm": 0.521733,
+            "cy_norm": 0.449316,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.515695, 0.437816, 0.527771, 0.460816]
+          },
+          {
+            "char": "e",
+            "cx_norm": 0.527589,
+            "cy_norm": 0.467538,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.521551, 0.456038, 0.533626, 0.479038]
+          },
+          {
+            "char": "d",
+            "cx_norm": 0.533734,
+            "cy_norm": 0.486657,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.527696, 0.475157, 0.539772, 0.498157]
+          },
+          {
+            "char": " ",
+            "cx_norm": 0.538869,
+            "cy_norm": 0.502635,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.532832, 0.491135, 0.544907, 0.514135]
+          },
+          {
+            "char": "o",
+            "cx_norm": 0.543927,
+            "cy_norm": 0.518373,
+            "angle_deg": -66.804,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.53789, 0.506873, 0.549965, 0.529873]
+          },
+          {
+            "char": "u",
+            "cx_norm": 0.550057,
+            "cy_norm": 0.537447,
+            "angle_deg": -66.557,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.54402, 0.525947, 0.556095, 0.548947]
+          },
+          {
+            "char": "t",
+            "cx_norm": 0.555552,
+            "cy_norm": 0.554139,
+            "angle_deg": -66.29,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.549515, 0.542639, 0.56159, 0.565639]
+          }
+        ],
+        "polylines": [
+          {
+            "points_norm_tl": [
+              [0.105182, 0.473256],
+              [0.126286, 0.407591],
+              [0.14739, 0.343521],
+              [0.168481, 0.282642],
+              [0.189585, 0.226465],
+              [0.210689, 0.176377],
+              [0.231793, 0.133593],
+              [0.252897, 0.099165],
+              [0.273988, 0.073932],
+              [0.295092, 0.058565],
+              [0.316196, 0.053401],
+              [0.3373, 0.058565],
+              [0.358404, 0.073932],
+              [0.379494, 0.099165],
+              [0.400598, 0.133593],
+              [0.421702, 0.176377],
+              [0.442806, 0.226465],
+              [0.46391, 0.282642],
+              [0.485001, 0.343521],
+              [0.496138, 0.377331]
+            ],
+            "color_hex": "#000000",
+            "alpha": 1,
+            "linewidth_pt": 1.067,
+            "linetype": "solid"
+          },
+          {
+            "points_norm_tl": [
+              [0.55828, 0.569179],
+              [0.569417, 0.602991],
+              [0.590508, 0.66387],
+              [0.611612, 0.720047],
+              [0.632716, 0.770136],
+              [0.65382, 0.812919],
+              [0.674924, 0.847347],
+              [0.696014, 0.87258],
+              [0.717118, 0.887947],
+              [0.738222, 0.893111],
+              [0.759326, 0.887947],
+              [0.780417, 0.87258],
+              [0.801521, 0.847347],
+              [0.822625, 0.812919],
+              [0.843729, 0.770136],
+              [0.864833, 0.720047],
+              [0.885924, 0.66387],
+              [0.907028, 0.602991],
+              [0.928132, 0.538922],
+              [0.949236, 0.473256]
+            ],
+            "color_hex": "#000000",
+            "alpha": 1,
+            "linewidth_pt": 1.067,
+            "linetype": "solid"
+          }
+        ],
+        "box": {}
+      }
+    ]
+  }
+}

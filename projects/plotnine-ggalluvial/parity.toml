@@ -1,0 +1,16 @@
+cases = "../../cases/ggalluvial"
+from = "git+https://github.com/snake-case-ggtext/plotnine-ggalluvial@9e73d14a9b8a99b1f555aa2a49a15a1751995bb4"
+package = "plotnine_ggalluvial"
+clean_room = true
+api = [
+    "geom_alluvium",
+    "geom_stratum",
+    "geom_flow",
+    "stat_alluvium",
+    "stat_stratum",
+    "stat_flow",
+]
+
+[splits]
+dev = ["alluvium/*", "curves/*", "flow/*", "lodes/*"]
+holdout = ["holdout/*"]

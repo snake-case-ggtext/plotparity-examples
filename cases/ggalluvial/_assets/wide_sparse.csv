@@ -1,0 +1,9 @@
+source,channel,outcome,freq,tier
+Free,Blog,Pass,14,Standard
+Free,Ads,Fail,19,Standard
+Free,Social,Pass,8,Plus
+Free,Email,Hold,11,Standard
+Paid,Blog,Pass,22,Plus
+Paid,Ads,Hold,13,Plus
+Paid,Social,Fail,7,Standard
+Paid,Email,Pass,16,Plus

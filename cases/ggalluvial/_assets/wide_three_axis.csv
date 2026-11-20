@@ -1,0 +1,13 @@
+axis1,axis2,axis3,freq,cohort,region
+Tier1,PlanA,Retained,24,Organic,North
+Tier1,PlanB,Retained,12,Organic,North
+Tier1,PlanB,Churned,8,Paid,North
+Tier2,PlanA,Retained,14,Paid,North
+Tier2,PlanB,Churned,18,Paid,North
+Tier2,PlanC,Churned,10,Organic,North
+Tier1,PlanA,Retained,16,Organic,South
+Tier1,PlanB,Churned,11,Paid,South
+Tier1,PlanC,Retained,9,Organic,South
+Tier2,PlanA,Churned,7,Paid,South
+Tier2,PlanB,Retained,20,Organic,South
+Tier2,PlanC,Churned,13,Paid,South

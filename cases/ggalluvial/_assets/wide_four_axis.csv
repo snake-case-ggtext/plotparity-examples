@@ -1,0 +1,9 @@
+stage1,stage2,stage3,stage4,freq,segment
+Lead,Trial,Active,Renewed,26,Enterprise
+Lead,Trial,Active,Churned,9,Enterprise
+Lead,Trial,Paused,Churned,14,SMB
+Lead,Demo,Active,Renewed,18,Enterprise
+Lead,Demo,Paused,Renewed,7,SMB
+Inbound,Trial,Active,Renewed,21,SMB
+Inbound,Demo,Active,Churned,12,SMB
+Inbound,Demo,Paused,Churned,15,Enterprise

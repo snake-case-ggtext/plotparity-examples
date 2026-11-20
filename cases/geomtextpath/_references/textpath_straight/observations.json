@@ -1,0 +1,269 @@
+{
+  "geomtextpath": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.06298, 0.011416, 0.991438, 0.935097]
+      }
+    ],
+    "curves": [
+      {
+        "panel": 1,
+        "text": "Straight tangent",
+        "glyphs": [
+          {
+            "char": "S",
+            "cx_norm": 0.503196,
+            "cy_norm": 0.392124,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.497158, 0.380624, 0.509234, 0.403624]
+          },
+          {
+            "char": "t",
+            "cx_norm": 0.5067,
+            "cy_norm": 0.40296,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.500662, 0.39146, 0.512738, 0.41446]
+          },
+          {
+            "char": "r",
+            "cx_norm": 0.50944,
+            "cy_norm": 0.411435,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.503402, 0.399935, 0.515478, 0.422935]
+          },
+          {
+            "char": "a",
+            "cx_norm": 0.512934,
+            "cy_norm": 0.422241,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.506896, 0.410741, 0.518972, 0.433741]
+          },
+          {
+            "char": "i",
+            "cx_norm": 0.515974,
+            "cy_norm": 0.431642,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.509937, 0.420142, 0.522012, 0.443142]
+          },
+          {
+            "char": "g",
+            "cx_norm": 0.519086,
+            "cy_norm": 0.441268,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.513049, 0.429768, 0.525124, 0.452768]
+          },
+          {
+            "char": "h",
+            "cx_norm": 0.523411,
+            "cy_norm": 0.454645,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.517373, 0.443145, 0.529448, 0.466145]
+          },
+          {
+            "char": "t",
+            "cx_norm": 0.52691,
+            "cy_norm": 0.465466,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.520872, 0.453966, 0.532948, 0.476966]
+          },
+          {
+            "char": " ",
+            "cx_norm": 0.529331,
+            "cy_norm": 0.472954,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.523293, 0.461454, 0.535369, 0.484454]
+          },
+          {
+            "char": "t",
+            "cx_norm": 0.531752,
+            "cy_norm": 0.480442,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.525714, 0.468942, 0.53779, 0.491942]
+          },
+          {
+            "char": "a",
+            "cx_norm": 0.535183,
+            "cy_norm": 0.491054,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.529145, 0.479554, 0.54122, 0.502554]
+          },
+          {
+            "char": "n",
+            "cx_norm": 0.539436,
+            "cy_norm": 0.504206,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.533398, 0.492706, 0.545474, 0.515706]
+          },
+          {
+            "char": "g",
+            "cx_norm": 0.543761,
+            "cy_norm": 0.517583,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.537724, 0.506083, 0.549799, 0.529083]
+          },
+          {
+            "char": "e",
+            "cx_norm": 0.548024,
+            "cy_norm": 0.530766,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.541986, 0.519266, 0.554061, 0.542266]
+          },
+          {
+            "char": "n",
+            "cx_norm": 0.552281,
+            "cy_norm": 0.543934,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.546244, 0.532434, 0.558319, 0.555434]
+          },
+          {
+            "char": "t",
+            "cx_norm": 0.55578,
+            "cy_norm": 0.554755,
+            "angle_deg": -66.679,
+            "color_hex": "#000000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.549743, 0.543255, 0.561818, 0.566255]
+          }
+        ],
+        "polylines": [
+          {
+            "points_norm_tl": [
+              [0.105182, 0.473256],
+              [0.126286, 0.407591],
+              [0.14739, 0.343521],
+              [0.168481, 0.282642],
+              [0.189585, 0.226465],
+              [0.210689, 0.176377],
+              [0.231793, 0.133593],
+              [0.252897, 0.099165],
+              [0.273988, 0.073932],
+              [0.295092, 0.058565],
+              [0.316196, 0.053401],
+              [0.3373, 0.058565],
+              [0.358404, 0.073932],
+              [0.379494, 0.099165],
+              [0.400598, 0.133593],
+              [0.421702, 0.176377],
+              [0.442806, 0.226465],
+              [0.46391, 0.282642],
+              [0.485001, 0.343521],
+              [0.496903, 0.379655]
+            ],
+            "color_hex": "#000000",
+            "alpha": 1,
+            "linewidth_pt": 1.067,
+            "linetype": "solid"
+          },
+          {
+            "points_norm_tl": [
+              [0.557514, 0.566854],
+              [0.569417, 0.602991],
+              [0.590508, 0.66387],
+              [0.611612, 0.720047],
+              [0.632716, 0.770136],
+              [0.65382, 0.812919],
+              [0.674924, 0.847347],
+              [0.696014, 0.87258],
+              [0.717118, 0.887947],
+              [0.738222, 0.893111],
+              [0.759326, 0.887947],
+              [0.780417, 0.87258],
+              [0.801521, 0.847347],
+              [0.822625, 0.812919],
+              [0.843729, 0.770136],
+              [0.864833, 0.720047],
+              [0.885924, 0.66387],
+              [0.907028, 0.602991],
+              [0.928132, 0.538922],
+              [0.949236, 0.473256]
+            ],
+            "color_hex": "#000000",
+            "alpha": 1,
+            "linewidth_pt": 1.067,
+            "linetype": "solid"
+          }
+        ],
+        "box": {}
+      }
+    ]
+  }
+}

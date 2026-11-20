@@ -1,0 +1,233 @@
+{
+  "geomtextpath": {
+    "panels": [
+      {
+        "panel_index": 1,
+        "bbox_norm_tl": [0.06298, 0.011416, 0.991438, 0.935097]
+      }
+    ],
+    "curves": [
+      {
+        "panel": 1,
+        "text": "Styled dashed",
+        "glyphs": [
+          {
+            "char": "S",
+            "cx_norm": 0.507061,
+            "cy_norm": 0.403735,
+            "angle_deg": -66.44,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.501023, 0.392235, 0.513098, 0.415235]
+          },
+          {
+            "char": "t",
+            "cx_norm": 0.510566,
+            "cy_norm": 0.414571,
+            "angle_deg": -66.804,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.504528, 0.403071, 0.516604, 0.426071]
+          },
+          {
+            "char": "y",
+            "cx_norm": 0.513908,
+            "cy_norm": 0.424968,
+            "angle_deg": -66.804,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.50787, 0.413468, 0.519946, 0.436468]
+          },
+          {
+            "char": "l",
+            "cx_norm": 0.51686,
+            "cy_norm": 0.434154,
+            "angle_deg": -66.804,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.510822, 0.422654, 0.522898, 0.445654]
+          },
+          {
+            "char": "e",
+            "cx_norm": 0.519889,
+            "cy_norm": 0.443579,
+            "angle_deg": -66.804,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.513852, 0.432079, 0.525927, 0.455079]
+          },
+          {
+            "char": "d",
+            "cx_norm": 0.52413,
+            "cy_norm": 0.456774,
+            "angle_deg": -66.804,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.518092, 0.445274, 0.530168, 0.468274]
+          },
+          {
+            "char": " ",
+            "cx_norm": 0.527361,
+            "cy_norm": 0.466827,
+            "angle_deg": -66.804,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.521323, 0.455327, 0.533398, 0.478327]
+          },
+          {
+            "char": "d",
+            "cx_norm": 0.530592,
+            "cy_norm": 0.47688,
+            "angle_deg": -66.804,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.524554, 0.46538, 0.536629, 0.48838]
+          },
+          {
+            "char": "a",
+            "cx_norm": 0.534828,
+            "cy_norm": 0.49006,
+            "angle_deg": -66.804,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.52879, 0.47856, 0.540866, 0.50156]
+          },
+          {
+            "char": "s",
+            "cx_norm": 0.538679,
+            "cy_norm": 0.502044,
+            "angle_deg": -66.804,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.532642, 0.490544, 0.544717, 0.513544]
+          },
+          {
+            "char": "h",
+            "cx_norm": 0.542597,
+            "cy_norm": 0.514236,
+            "angle_deg": -66.804,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.536559, 0.502736, 0.548635, 0.525736]
+          },
+          {
+            "char": "e",
+            "cx_norm": 0.546833,
+            "cy_norm": 0.527416,
+            "angle_deg": -66.804,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.540795, 0.515916, 0.552871, 0.538916]
+          },
+          {
+            "char": "d",
+            "cx_norm": 0.551093,
+            "cy_norm": 0.540601,
+            "angle_deg": -66.44,
+            "color_hex": "#8b0000",
+            "alpha": 1,
+            "fontsize_pt": 11.04,
+            "fontweight": "normal",
+            "fontstyle": "normal",
+            "bbox_norm_tl": [0.545056, 0.529101, 0.557131, 0.552101]
+          }
+        ],
+        "polylines": [
+          {
+            "points_norm_tl": [
+              [0.105182, 0.473256],
+              [0.126286, 0.407591],
+              [0.14739, 0.343521],
+              [0.168481, 0.282642],
+              [0.189585, 0.226465],
+              [0.210689, 0.176377],
+              [0.231793, 0.133593],
+              [0.252897, 0.099165],
+              [0.273988, 0.073932],
+              [0.295092, 0.058565],
+              [0.316196, 0.053401],
+              [0.3373, 0.058565],
+              [0.358404, 0.073932],
+              [0.379494, 0.099165],
+              [0.400598, 0.133593],
+              [0.421702, 0.176377],
+              [0.442806, 0.226465],
+              [0.46391, 0.282642],
+              [0.485001, 0.343521],
+              [0.500732, 0.391279]
+            ],
+            "color_hex": "#4682b4",
+            "alpha": 1,
+            "linewidth_pt": 2.988,
+            "linetype": "dashed"
+          },
+          {
+            "points_norm_tl": [
+              [0.553685, 0.555231],
+              [0.569417, 0.602991],
+              [0.590508, 0.66387],
+              [0.611612, 0.720047],
+              [0.632716, 0.770136],
+              [0.65382, 0.812919],
+              [0.674924, 0.847347],
+              [0.696014, 0.87258],
+              [0.717118, 0.887947],
+              [0.738222, 0.893111],
+              [0.759326, 0.887947],
+              [0.780417, 0.87258],
+              [0.801521, 0.847347],
+              [0.822625, 0.812919],
+              [0.843729, 0.770136],
+              [0.864833, 0.720047],
+              [0.885924, 0.66387],
+              [0.907028, 0.602991],
+              [0.928132, 0.538922],
+              [0.949236, 0.473256]
+            ],
+            "color_hex": "#4682b4",
+            "alpha": 1,
+            "linewidth_pt": 2.988,
+            "linetype": "dashed"
+          }
+        ],
+        "box": {}
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "case": "alluvium_decreasing_false",
+  "input_hash": "065eb63d447a01129c479b48784024b425044c2a9b24f2904ac5f7d13b287116",
+  "font_hashes": {
+    "DejaVuSans.ttf": "3fdf69cabf06049e",
+    "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
+    "DejaVuSans-Oblique.ttf": "ccdf74b350f11fd3",
+    "DejaVuSans-BoldOblique.ttf": "6edf0283160186af"
+  },
+  "r_env": {
+    "r_version": "R version 4.3.2 (2023-10-31)",
+    "platform": "aarch64-apple-darwin20",
+    "packages": {
+      "ggplot2": "3.5.2",
+      "ggalluvial": "0.12.5",
+      "ragg": "1.2.7",
+      "systemfonts": "1.2.3",
+      "jsonlite": "1.8.8"
+    }
+  },
+  "adapter": [
+    "ggalluvial",
+    "0.1.0"
+  ]
+}

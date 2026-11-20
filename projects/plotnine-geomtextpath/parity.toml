@@ -1,0 +1,15 @@
+cases = "../../cases/geomtextpath"
+from = "git+https://github.com/snake-case-ggtext/plotnine-geomtextpath@069f23dc3a6034958875bbb5be1a42a7128b8bf6"
+package = "plotnine_geomtextpath"
+clean_room = true
+api = [
+    "geom_textpath",
+    "geom_textline",
+    "geom_textsmooth",
+    "geom_labelpath",
+    "geom_labelline",
+]
+
+[splits]
+dev = ["textpath/*", "textsmooth/*", "labelpath/*"]
+holdout = ["holdout/*"]

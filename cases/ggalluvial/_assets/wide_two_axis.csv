@@ -1,0 +1,8 @@
+origin,dest,freq,category
+Mobile,Direct,28,New
+Mobile,Referral,14,Returning
+Desktop,Direct,19,Returning
+Desktop,Search,23,New
+Desktop,Referral,9,New
+Tablet,Search,11,Returning
+Tablet,Direct,7,New
