@@ -1,6 +1,6 @@
 {
   "case": "density_bandwidth_trim_r_defaults",
-  "input_hash": "54bc2525c4d63994337a38722c3951ae5b9a0f7117e62d7f4959e4a0ce4406ff",
+  "input_hash": "95218746c82b2d2ab89caf070bffaf47cb27e74c9a20f49fdc92ad77a057de66",
   "font_hashes": {
     "DejaVuSans.ttf": "3fdf69cabf06049e",
     "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
@@ -11,7 +11,7 @@
     "r_version": "R version 4.3.2 (2023-10-31)",
     "platform": "aarch64-apple-darwin20",
     "packages": {
-      "ggplot2": "3.5.0",
+      "ggplot2": "3.5.2",
       "ggridges": "0.5.6",
       "ragg": "1.2.7",
       "systemfonts": "1.2.3",

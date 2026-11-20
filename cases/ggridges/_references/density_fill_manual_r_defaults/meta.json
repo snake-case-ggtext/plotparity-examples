@@ -1,6 +1,6 @@
 {
   "case": "density_fill_manual_r_defaults",
-  "input_hash": "c7b18ab9f7f8d99d21cbb3420408c170c7b032f95f97b9b524e76ac02b0833c5",
+  "input_hash": "6398ce4562b74d435d90d0c622b40b6b51c0ac181a8ef2557fa09ddfd244972d",
   "font_hashes": {
     "DejaVuSans.ttf": "3fdf69cabf06049e",
     "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
@@ -11,7 +11,7 @@
     "r_version": "R version 4.3.2 (2023-10-31)",
     "platform": "aarch64-apple-darwin20",
     "packages": {
-      "ggplot2": "3.5.0",
+      "ggplot2": "3.5.2",
       "ggridges": "0.5.6",
       "ragg": "1.2.7",
       "systemfonts": "1.2.3",

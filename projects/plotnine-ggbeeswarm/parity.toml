@@ -1,6 +1,7 @@
 cases = "../../cases/ggbeeswarm"
 from = "../../../sandbox/plotnine-ggbeeswarm"
 package = "plotnine_ggbeeswarm"
+clean_room = true
 api = ["geom_beeswarm", "geom_quasirandom", "position_beeswarm", "position_quasirandom"]
 
 [splits]

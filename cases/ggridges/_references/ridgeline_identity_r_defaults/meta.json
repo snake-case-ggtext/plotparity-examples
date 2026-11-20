@@ -1,6 +1,6 @@
 {
   "case": "ridgeline_identity_r_defaults",
-  "input_hash": "d9679c97dc884a4e849a9b05ccb3bf226ecd78e398fe0e522c71398075ccfce2",
+  "input_hash": "0ac22ac4358b816c464d0c04a59677e2214a1a2d5bda9d14619b2578578aae36",
   "font_hashes": {
     "DejaVuSans.ttf": "3fdf69cabf06049e",
     "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
@@ -11,7 +11,7 @@
     "r_version": "R version 4.3.2 (2023-10-31)",
     "platform": "aarch64-apple-darwin20",
     "packages": {
-      "ggplot2": "3.5.0",
+      "ggplot2": "3.5.2",
       "ggridges": "0.5.6",
       "ragg": "1.2.7",
       "systemfonts": "1.2.3",

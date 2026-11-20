@@ -5,8 +5,10 @@
     "y_labels": ["low", "mid", "high"],
     "events": [
       {
+        "kind": "polygon",
         "paint_index": 1,
         "filled": true,
+        "is_rounded": true,
         "facecolor_hex": "#e8a33d",
         "face_alpha": 1,
         "edgecolor_hex": "none",
@@ -122,8 +124,10 @@
         ]
       },
       {
+        "kind": "polyline",
         "paint_index": 2,
         "filled": false,
+        "is_rounded": false,
         "facecolor_hex": "none",
         "face_alpha": 0,
         "edgecolor_hex": "#000000",
@@ -189,8 +193,10 @@
         ]
       },
       {
+        "kind": "polygon",
         "paint_index": 3,
         "filled": true,
+        "is_rounded": true,
         "facecolor_hex": "#e8a33d",
         "face_alpha": 1,
         "edgecolor_hex": "none",
@@ -306,8 +312,10 @@
         ]
       },
       {
+        "kind": "polyline",
         "paint_index": 4,
         "filled": false,
+        "is_rounded": false,
         "facecolor_hex": "none",
         "face_alpha": 0,
         "edgecolor_hex": "#000000",
@@ -373,8 +381,10 @@
         ]
       },
       {
+        "kind": "polygon",
         "paint_index": 5,
         "filled": true,
+        "is_rounded": true,
         "facecolor_hex": "#e8a33d",
         "face_alpha": 1,
         "edgecolor_hex": "none",
@@ -490,8 +500,10 @@
         ]
       },
       {
+        "kind": "polyline",
         "paint_index": 6,
         "filled": false,
+        "is_rounded": false,
         "facecolor_hex": "none",
         "face_alpha": 0,
         "edgecolor_hex": "#000000",

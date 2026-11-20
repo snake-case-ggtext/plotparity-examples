@@ -1,6 +1,7 @@
 cases = "../../cases/ggrepel"
 from = "../../../sandbox/plotnine-ggrepel"
 package = "plotnine_ggrepel"
+clean_room = true
 api = ["geom_text_repel", "geom_label_repel", "position_nudge_repel"]
 
 [splits]

@@ -1,6 +1,6 @@
 {
   "case": "density_quantile_lines",
-  "input_hash": "292cc3732812e671a19b5a7c3251bb011b6569a7a0c4398950814367603c765e",
+  "input_hash": "e925406b68fd4c3e370648e8e38f98cb9327387840413ad4d6aa2d4032b72420",
   "font_hashes": {
     "DejaVuSans.ttf": "3fdf69cabf06049e",
     "DejaVuSans-Bold.ttf": "b184b89e3c1075f2",
@@ -11,7 +11,7 @@
     "r_version": "R version 4.3.2 (2023-10-31)",
     "platform": "aarch64-apple-darwin20",
     "packages": {
-      "ggplot2": "3.5.0",
+      "ggplot2": "3.5.2",
       "ggridges": "0.5.6",
       "ragg": "1.2.7",
       "systemfonts": "1.2.3",
